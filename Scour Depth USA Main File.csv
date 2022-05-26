@@ -1,0 +1,509 @@
+State,Stream_ID,Site_ID,Site_Name,Pier_ID,Date,Time,US/DS,Pier_Type,Pier_Shape,Effective_Pier_Width,Skew_To_Flow,Approach_Velocity,Approach_Depth,Sediment_Transport,Bed_Material_Type,D16,D50,D84,D95,Sigma_Bed_Material,Debris_Effects,Scour_Depth,Accuracy
+AK,Knik River,2,"Knik River at Old Glenn Highway near Palmer, AK",5,7/11/1965,15:30,Upstream,Single,Sharp,6,0,12,18,Live-bed,Non-cohesive,0.92,5,27,83,5.5,Unknown,3.5,0.5
+AK,Knik River,3,"Knik River at S.R. 1 near Eklutna, AK",7,6/28/1966,0:00,Upstream,Single,Round,5,0,3.2,6.5,Live-bed,Non-cohesive,0.39,1.8,8,22,4.6,Unknown,2.5,0.5
+AK,Knik River,3,"Knik River at S.R. 1 near Eklutna, AK",5,6/24/1966,0:00,Upstream,Single,Round,5,0,5.9,10,Live-bed,Non-cohesive,0.39,1.8,8,22,4.6,Unknown,4.5,0.5
+AK,Knik River,3,"Knik River at S.R. 1 near Eklutna, AK",1,6/28/1966,0:00,Upstream,Single,Round,5,0,3.1,3,Live-bed,Non-cohesive,0.39,1.8,8,22,4.6,Unknown,1.5,0.5
+AK,Knik River,3,"Knik River at S.R. 1 near Eklutna, AK",2,6/24/1966,0:00,Upstream,Single,Round,5,0,5.1,6.5,Live-bed,Non-cohesive,0.39,1.8,8,22,4.6,Unknown,2,0.5
+AK,Knik River,3,"Knik River at S.R. 1 near Eklutna, AK",2,6/28/1966,0:00,Upstream,Single,Round,5,0,3.2,3,Live-bed,Non-cohesive,0.39,1.8,8,22,4.6,Unknown,2,0.5
+AK,Knik River,3,"Knik River at S.R. 1 near Eklutna, AK",3,6/17/1966,0:00,Upstream,Single,Round,5,0,1.6,4,Live-bed,Non-cohesive,0.08,0.58,4,14,6.9,Unknown,1,0.5
+AK,Knik River,3,"Knik River at S.R. 1 near Eklutna, AK",3,6/24/1966,0:00,Upstream,Single,Round,5,0,5.2,10,Live-bed,Non-cohesive,0.39,1.8,8,22,4.6,Unknown,3,0.5
+AK,Knik River,3,"Knik River at S.R. 1 near Eklutna, AK",3,6/28/1966,0:00,Upstream,Single,Round,5,0,3.6,6,Live-bed,Non-cohesive,0.39,1.8,8,22,4.6,Unknown,1.5,0.5
+AK,Knik River,3,"Knik River at S.R. 1 near Eklutna, AK",4,6/17/1966,0:00,Upstream,Single,Round,5,0,2.5,5,Live-bed,Non-cohesive,0.08,0.58,4,14,6.9,Unknown,1,0.5
+AK,Knik River,3,"Knik River at S.R. 1 near Eklutna, AK",4,6/24/1966,0:00,Upstream,Single,Round,5,0,6.5,10.5,Live-bed,Non-cohesive,0.39,1.8,8,22,4.6,Unknown,4,0.5
+AK,Knik River,3,"Knik River at S.R. 1 near Eklutna, AK",1,6/24/1966,0:00,Upstream,Single,Round,5,0,5,7,Live-bed,Non-cohesive,0.39,1.8,8,22,4.6,Unknown,2,0.5
+AK,Knik River,3,"Knik River at S.R. 1 near Eklutna, AK",4,6/28/1966,0:00,Upstream,Single,Round,5,0,3.8,8,Live-bed,Non-cohesive,0.39,1.8,8,22,4.6,Unknown,2,0.5
+AK,Knik River,3,"Knik River at S.R. 1 near Eklutna, AK",5,6/17/1966,0:00,Upstream,Single,Round,5,0,2.9,4,Live-bed,Non-cohesive,0.08,0.58,4,14,6.9,Unknown,1,0.5
+AK,Knik River,3,"Knik River at S.R. 1 near Eklutna, AK",6,6/28/1966,0:00,Upstream,Single,Round,5,0,3.7,5,Live-bed,Non-cohesive,0.39,1.8,8,22,4.6,Unknown,1.5,0.5
+AK,Knik River,3,"Knik River at S.R. 1 near Eklutna, AK",6,6/24/1966,0:00,Upstream,Single,Round,5,0,6.8,8.5,Live-bed,Non-cohesive,0.39,1.8,8,22,4.6,Unknown,3.5,0.5
+AK,Knik River,3,"Knik River at S.R. 1 near Eklutna, AK",6,6/17/1966,0:00,Upstream,Single,Round,5,0,0.9,1.5,Live-bed,Non-cohesive,0.08,0.58,4,14,6.9,Unknown,2.5,0.5
+AK,Knik River,3,"Knik River at S.R. 1 near Eklutna, AK",5,6/28/1966,0:00,Upstream,Single,Round,5,0,3.7,7.5,Live-bed,Non-cohesive,0.39,1.8,8,22,4.6,Unknown,2.5,0.5
+AK,Knik River,3,"Knik River at S.R. 1 near Eklutna, AK",7,6/17/1966,0:00,Upstream,Single,Round,5,0,0.5,2,Live-bed,Non-cohesive,0.08,0.58,4,14,6.9,Unknown,4,0.5
+AK,Knik River,3,"Knik River at S.R. 1 near Eklutna, AK",7,6/24/1966,0:00,Upstream,Single,Round,5,0,6,10,Live-bed,Non-cohesive,0.39,1.8,8,22,4.6,Unknown,6,0.5
+AK,Snow River,7,"Snow River at Seward Highway (S.R. 9)  near Seward, AK",5,9/23/1970,0:00,Unknown,Single,Round,3.2,0,5.3,5,Live-bed,Non-cohesive,3,7.6,18,31,3,Insignificant,2.5,0.5
+AK,Susitna River,1,"Susitna River at S.R. 3 near Sunshine, AK",4,8/11/1971,0:00,Downstream,Single,Sharp,5,0,9.5,17.5,Clear-water,Non-cohesive,58,70,85,96,1.2,Substantial,5,1
+AK,Susitna River,1,"Susitna River at S.R. 3 near Sunshine, AK",1,8/11/1971,0:00,Upstream,Single,Sharp,5,0,10,17.5,Clear-water,Non-cohesive,58,70,85,96,1.2,Insignificant,2,0.5
+AK,Susitna River,1,"Susitna River at S.R. 3 near Sunshine, AK",2,7/2/1971,0:00,Upstream,Single,Sharp,5,0,8.5,13.5,Clear-water,Non-cohesive,58,70,85,96,1.2,Insignificant,2.5,0.5
+AK,Susitna River,1,"Susitna River at S.R. 3 near Sunshine, AK",2,8/11/1971,0:00,Unknown,Single,Sharp,5,0,9.5,21.5,Clear-water,Non-cohesive,58,70,85,96,1.2,Insignificant,2,1
+AK,Susitna River,1,"Susitna River at S.R. 3 near Sunshine, AK",3,7/2/1971,0:00,Upstream,Single,Sharp,5,0,7,11,Clear-water,Non-cohesive,58,70,85,96,1.2,Insignificant,2,0.5
+AK,Susitna River,1,"Susitna River at S.R. 3 near Sunshine, AK",4,7/2/1971,0:00,Downstream,Single,Sharp,5,0,5,13.5,Clear-water,Non-cohesive,58,70,85,96,1.2,Substantial,5,0.5
+AK,Susitna River,1,"Susitna River at S.R. 3 near Sunshine, AK",1,7/2/1971,0:00,Upstream,Single,Sharp,5,0,6.5,19,Clear-water,Non-cohesive,58,70,85,96,1.2,Insignificant,2.5,0.5
+AK,Susitna River,1,"Susitna River at S.R. 3 near Sunshine, AK",3,8/11/1971,0:00,Unknown,Single,Sharp,5,0,11.5,17,Clear-water,Non-cohesive,58,70,85,96,1.2,Insignificant,2,1
+AK,Tanana River,5,"Tanana River at S.R. 2 at Big Delta, AK",1,7/16/1971,0:00,Downstream,Single,Round,5,37,7.1,12,Live-bed,Non-cohesive,5,14,42,86,3,Moderate,6,0.5
+AK,Tanana River,5,"Tanana River at S.R. 2 at Big Delta, AK",4,7/16/1971,0:00,Downstream,Single,Round,5,37,5.7,14,Live-bed,Non-cohesive,5,14,42,86,3,Moderate,8,0.5
+AK,Tanana River,5,"Tanana River at S.R. 2 at Big Delta, AK",3,7/16/1971,0:00,Downstream,Single,Round,5,37,6.8,15,Live-bed,Non-cohesive,5,14,42,86,3,Moderate,6,0.5
+AK,Tanana River,5,"Tanana River at S.R. 2 at Big Delta, AK",2,7/16/1971,0:00,Downstream,Single,Round,5,37,7.3,12,Live-bed,Non-cohesive,5,14,42,86,3,Moderate,7,0.5
+AK,Tanana River,6,"Tanana River at S.R. 3 at Nenana, AK",1,8/17/1967,0:00,Downstream,Group,Sharp,10,0,8.5,22,Live-bed,Non-cohesive,12,15,19,23,1.3,Moderate,6,0.5
+AK,Tazlina River,4,"Tazlina River at Richardson Hwy (S.R. 4)  nr Glennallen,AK",1,9/4/1971,0:00,Upstream,Group,Round,15,0,11.5,15,Live-bed,Non-cohesive,68,90,120,144,1.33,Insignificant,5.5,0.5
+AK,Tazlina River,4,"Tazlina River at Richardson Hwy (S.R. 4)  nr Glennallen,AK",1,9/2/1971,0:00,Upstream,Group,Round,15,0,9.5,12,Live-bed,Non-cohesive,68,90,120,144,1.33,Insignificant,5,0.5
+AR,Red River,8,"Red River at U.S. 71 at Index, AR",9,5/9/1990,15:00,Downstream,Group,Round,7,8,12.8,42.8,Live-bed,Unknown,,0.119,,,,Unknown,11.2,0.5
+AR,Red River,8,"Red River at U.S. 71 at Index, AR",8,5/9/1990,15:00,Downstream,Group,Round,7,11,8.7,40.4,Live-bed,Unknown,,0.119,,,,Unknown,7.6,0.5
+AR,Red River,9,"Red River at I-30 near Fulton, AR",5,5/12/1990,14:00,Upstream,Unknown,Sharp,6.5,0,2.4,26.7,Live-bed,Unknown,,0.18,,,,Unknown,8.7,0.5
+AR,Red River,9,"Red River at I-30 near Fulton, AR",4,5/12/1990,14:00,Upstream,Unknown,Sharp,7,0,9.5,35.3,Live-bed,Unknown,,0.18,,,,Unknown,14.6,0.5
+AR,Red River,10,"Red River at U.S. 82 at Garland, AR",7,5/14/1990,14:00,Downstream,Group,Round,9.8,0,6.2,38.5,Live-bed,Unknown,,0.32,,,,Unknown,14.4,0.5
+AR,Red River,10,"Red River at U.S. 82 at Garland, AR",8,5/14/1990,14:00,Downstream,Group,Square,9.8,14,7.7,44.2,Live-bed,Unknown,,0.32,,,,Unknown,5.9,0.5
+AR,Red River,10,"Red River at U.S. 82 at Garland, AR",10,5/14/1990,14:00,Downstream,Group,Round,9.8,0,4.8,29.9,Live-bed,Unknown,,0.32,,,,Unknown,10.7,0.5
+CO,Arkansas River,13,"Arkansas River at C.R. 613 near Nepesta, CO",1,9/27/1984,10:00,Upstream,Single,Round,4,19,2.7,2.3,Live-bed,Non-cohesive,0.34,0.64,1.19,2.87,1.88,Unknown,2,0.5
+CO,Arkansas River,13,"Arkansas River at C.R. 613 near Nepesta, CO",1,6/5/1984,14:00,Upstream,Single,Round,4,0,5.4,7.5,Live-bed,Non-cohesive,0.4,1.19,5.15,10.7,3.61,Unknown,4.3,1
+CO,Arkansas River,13,"Arkansas River at C.R. 613 near Nepesta, CO",1,5/23/1984,10:30,Downstream,Single,Round,4,12,3.3,6.9,Live-bed,Non-cohesive,0.4,1.19,5.15,10.7,3.61,Unknown,1.4,0.5
+CO,Arkansas River,13,"Arkansas River at C.R. 613 near Nepesta, CO",1,5/23/1984,9:00,Upstream,Single,Round,4,12,3.3,6.9,Live-bed,Non-cohesive,0.4,1.19,5.15,10.7,3.61,Unknown,2.1,0.5
+CO,Arkansas River,13,"Arkansas River at C.R. 613 near Nepesta, CO",1,6/5/1984,15:00,Downstream,Single,Round,4,0,5.4,7.5,Live-bed,Non-cohesive,0.4,1.19,5.15,10.7,3.61,Unknown,1.5,0.5
+CO,Arkansas River,13,"Arkansas River at C.R. 613 near Nepesta, CO",3,5/23/1984,9:00,Upstream,Single,Round,4,0,2.2,2.1,Live-bed,Non-cohesive,0.4,1.19,5.15,10.7,3.61,Unknown,1,0.5
+CO,Arkansas River,13,"Arkansas River at C.R. 613 near Nepesta, CO",3,6/5/1984,15:00,Downstream,Single,Round,4,0,3.3,3.4,Live-bed,Non-cohesive,0.4,1.19,5.15,10.7,3.61,Unknown,1.1,0.5
+CO,Arkansas River,13,"Arkansas River at C.R. 613 near Nepesta, CO",3,6/5/1984,14:00,Upstream,Single,Round,4,0,3.3,3.4,Live-bed,Non-cohesive,0.4,1.19,5.15,10.7,3.61,Unknown,1,0.5
+CO,Arkansas River,13,"Arkansas River at C.R. 613 near Nepesta, CO",1,9/27/1984,11:00,Downstream,Single,Round,4,19,2.7,2.3,Live-bed,Non-cohesive,0.34,0.64,1.19,2.87,1.88,Unknown,1.4,0.5
+CO,Arkansas River,13,"Arkansas River at C.R. 613 near Nepesta, CO",3,5/23/1984,10:30,Downstream,Single,Round,4,0,2.2,2.1,Live-bed,Non-cohesive,0.4,1.19,5.15,10.7,3.61,Unknown,1,0.5
+CO,Rio Grande River,14,"Rio Grande River at U.S.285 near Monte Vista, CO",1,9/25/1984,8:00,Upstream,Single,Sharp,3,36,3.7,1.1,Unknown,Non-cohesive,8.81,29.8,68.9,80.8,3.03,Unknown,0.9,0.5
+CO,Rio Grande River,14,"Rio Grande River at U.S.285 near Monte Vista, CO",1,5/22/1984,14:00,Downstream,Single,Sharp,3,26,5.4,4,Live-bed,Non-cohesive,8.81,29.8,68.9,80.8,3.03,Unknown,1.5,0.5
+CO,Rio Grande River,14,"Rio Grande River at U.S.285 near Monte Vista, CO",1,5/22/1984,12:00,Upstream,Single,Sharp,3,26,5.4,4,Live-bed,Non-cohesive,8.81,29.8,68.9,80.8,3.03,Unknown,1.7,0.5
+CO,South Platte River,11,"South Platte River at S.R. 37 near Kersey, CO",5,10/3/1984,10:00,Downstream,Single,Sharp,1.75,43,2.5,2.2,Unknown,Non-cohesive,0.43,1.8,7.86,14.8,4.27,Unknown,1.4,0.5
+CO,South Platte River,11,"South Platte River at S.R. 37 near Kersey, CO",4,6/26/1984,14:00,Upstream,Single,Sharp,1.75,43,3.2,4.6,Live-bed,Non-cohesive,0.43,1.1,5.12,10.4,3.45,Unknown,1.5,0.5
+CO,South Platte River,11,"South Platte River at S.R. 37 near Kersey, CO",3,5/21/1984,10:00,Upstream,Single,Sharp,1.75,20,4.6,6,Live-bed,Non-cohesive,0.43,1.1,5.12,10.4,3.45,Unknown,1.1,0.5
+CO,South Platte River,11,"South Platte River at S.R. 37 near Kersey, CO",4,6/26/1984,16:00,Downstream,Single,Sharp,1.75,43,3.2,4.6,Live-bed,Non-cohesive,0.43,1.1,5.12,10.4,3.45,Unknown,2.2,0.5
+CO,South Platte River,11,"South Platte River at S.R. 37 near Kersey, CO",3,5/21/1984,13:00,Downstream,Single,Sharp,1.75,20,4.6,6,Live-bed,Non-cohesive,0.43,1.1,5.12,10.4,3.45,Unknown,2.2,0.5
+CO,South Platte River,11,"South Platte River at S.R. 37 near Kersey, CO",4,10/3/1984,8:00,Upstream,Single,Sharp,1.75,0,1.9,1.9,Unknown,Non-cohesive,0.43,1.8,7.86,14.8,4.27,Substantial,1.8,0.5
+CO,South Platte River,11,"South Platte River at S.R. 37 near Kersey, CO",4,10/3/1984,10:00,Downstream,Single,Sharp,1.75,0,1.9,1.9,Unknown,Non-cohesive,0.43,1.8,7.86,14.8,4.27,Substantial,2.3,0.5
+CO,South Platte River,11,"South Platte River at S.R. 37 near Kersey, CO",5,6/26/1984,16:00,Downstream,Single,Sharp,1.75,43,3.4,3.3,Live-bed,Non-cohesive,0.43,1.1,5.12,10.4,3.45,Unknown,1.6,0.5
+CO,South Platte River,11,"South Platte River at S.R. 37 near Kersey, CO",5,5/21/1984,13:00,Downstream,Single,Sharp,1.75,20,4.6,4.3,Live-bed,Non-cohesive,0.43,1.1,5.12,10.4,3.45,Unknown,3,0.5
+CO,South Platte River,11,"South Platte River at S.R. 37 near Kersey, CO",4,5/21/1984,10:00,Upstream,Single,Sharp,1.75,20,5.8,5.1,Live-bed,Non-cohesive,0.43,1.1,5.12,10.4,3.45,Unknown,1,0.5
+CO,South Platte River,11,"South Platte River at S.R. 37 near Kersey, CO",4,5/21/1984,13:00,Downstream,Single,Sharp,1.75,20,5.8,5.1,Live-bed,Non-cohesive,0.43,1.1,5.12,10.4,3.45,Unknown,2.6,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",6,5/18/1984,11:00,Upstream,Single,Square,0.95,16,3.9,8.7,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Unknown,2.4,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",5,10/2/1984,14:00,Upstream,Single,Square,0.95,11,3.5,2.8,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.62,Unknown,1.7,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",8,10/2/1984,16:00,Downstream,Single,Square,0.95,11,2.4,2.6,Live-bed,Non-cohesive,0.3,0.67,2.1,9.3,2.62,Unknown,1,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",8,5/18/1984,13:30,Downstream,Single,Square,0.95,11,4.3,9.4,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Substantial,2,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",8,5/18/1984,11:00,Upstream,Single,Square,0.95,11,4.3,9.4,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Substantial,0.7,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",7,10/2/1984,16:00,Downstream,Single,Square,0.95,13,2.4,2.2,Live-bed,Non-cohesive,0.3,0.67,2.1,9.3,2.62,Unknown,3.1,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",7,10/2/1984,14:00,Upstream,Single,Square,0.95,13,2.4,2.2,Live-bed,Non-cohesive,0.3,0.67,2.1,9.3,2.62,Unknown,1.9,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",7,6/25/1984,16:30,Downstream,Single,Square,0.95,13,3.7,2.2,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Unknown,1.2,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",5,10/2/1984,16:00,Downstream,Single,Square,0.95,11,3.5,2.8,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.62,Unknown,1.5,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",7,5/18/1984,13:30,Downstream,Single,Square,0.95,14,5.2,9.2,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Substantial,1.3,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",3,6/25/1984,14:00,Upstream,Single,Square,0.95,20,2.7,1.1,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Unknown,1,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",6,10/2/1984,16:00,Downstream,Single,Square,0.95,8,3.7,2,Live-bed,Non-cohesive,0.3,0.67,2.1,9.3,2.62,Unknown,2,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",6,10/2/1984,14:00,Upstream,Single,Square,0.95,8,3.7,2,Live-bed,Non-cohesive,0.3,0.67,2.1,9.3,2.62,Unknown,2,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",6,6/25/1984,16:30,Downstream,Single,Square,0.95,8,3.6,1.7,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Unknown,1.3,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",6,6/25/1984,14:00,Upstream,Single,Square,0.95,8,3.6,1.7,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Unknown,1.7,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",6,5/18/1984,13:30,Downstream,Single,Square,0.95,16,3.9,8.7,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Unknown,2.5,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",3,5/18/1984,11:00,Upstream,Single,Square,0.95,14,3.8,3.3,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Unknown,1,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",7,5/18/1984,11:00,Upstream,Single,Square,0.95,14,5.2,9.2,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Substantial,1.3,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",7,6/25/1984,14:00,Upstream,Single,Square,0.95,13,3.7,2.2,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Unknown,1.7,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",5,6/25/1984,16:30,Downstream,Single,Square,0.95,11,3.7,1.4,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Unknown,1.3,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",5,6/25/1984,14:00,Upstream,Single,Square,0.95,11,3.7,1.4,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Unknown,1.8,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",5,5/18/1984,13:30,Downstream,Single,Square,0.95,16,4.1,6.1,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Unknown,1.6,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",5,5/18/1984,11:00,Upstream,Single,Square,0.95,16,4.1,6.1,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Unknown,2.1,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",4,10/2/1984,14:00,Upstream,Single,Square,0.95,16,2.4,3.4,Live-bed,Non-cohesive,0.3,0.67,2.1,9.3,2.62,Unknown,1.3,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",4,6/25/1984,16:30,Downstream,Single,Square,0.95,16,3.3,1.1,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Unknown,0.8,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",4,6/25/1984,14:00,Upstream,Single,Square,0.95,16,3.3,1.1,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Unknown,1.2,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",4,5/18/1984,13:30,Downstream,Single,Square,0.95,23,3.9,4.3,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Substantial,1.1,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",8,10/2/1984,14:00,Upstream,Single,Square,0.95,11,2.4,2.6,Live-bed,Non-cohesive,0.3,0.67,2.1,9.3,2.62,Insignificant,0.6,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",2,5/18/1984,13:00,Downstream,Single,Square,0.95,26,3.5,3.3,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Substantial,1.5,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",3,5/18/1984,13:30,Downstream,Single,Square,0.95,14,3.8,3.3,Live-bed,NON-COH,0.4,0.94,3.51,6.98,2.98,Unknown,1.1,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",2,5/18/1984,11:00,Upstream,Single,Square,0.95,26,3.5,3.3,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Substantial,0.5,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",1,10/2/1984,16:00,Downstream,Single,Square,0.95,15,2.4,0.5,Unknown,Non-cohesive,0.3,0.67,2.1,9.3,2.62,Unknown,0,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",1,10/2/1984,14:00,Upstream,Single,Square,0.95,15,2.4,0.5,Live-bed,Non-cohesive,0.3,0.67,2.1,9.3,2.62,Unknown,1.7,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",1,6/25/1984,16:30,Downstream,Single,Square,0.95,15,2.3,1.9,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Unknown,1.4,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",1,6/25/1984,14:00,Upstream,Single,Square,0.95,15,2.3,1.9,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Unknown,0.7,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",1,5/18/1984,13:30,Downstream,Single,Square,0.95,26,2.6,3.3,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Unknown,1.9,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",1,5/18/1984,11:00,Upstream,Single,Square,0.95,26,2.6,3.3,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Unknown,2,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",3,6/25/1984,16:30,Downstream,Single,Square,0.95,20,2.7,1.1,Unknown,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Unknown,0,0.5
+CO,South Platte River,12,"South Platte River at C.R. 87 near Masters, CO",4,5/18/1984,11:00,Upstream,Single,Square,0.95,23,3.9,4.3,Live-bed,Non-cohesive,0.4,0.94,3.51,6.98,2.98,Substantial,0.6,0.5
+DE,Assawoman Bay,16,"Assawoman Bay at S.R. 54 near Fenwick Island, DE",H,6/8/1992,9:00,Upstream,Group,Cylindrical,2.5,0,0.8,4.9,Unknown,Unknown,0.06,0.18,0.37,0.65,2.03,Unknown,1.5,1
+DE,Assawoman Bay,16,"Assawoman Bay at S.R. 54 near Fenwick Island, DE",G,9/24/1991,14:00,Upstream,Group,Cylindrical,2.5,0,0.9,12.6,Unknown,Unknown,0.06,0.18,0.37,0.65,2.03,Unknown,1.4,1
+DE,Assawoman Bay,16,"Assawoman Bay at S.R. 54 near Fenwick Island, DE",C,9/24/1991,14:00,Upstream,Group,Cylindrical,2.5,0,0.9,10.4,Unknown,Unknown,0.09,0.18,0.37,0.65,2.03,Unknown,2.4,1
+DE,Assawoman Bay,16,"Assawoman Bay at S.R. 54 near Fenwick Island, DE",C,6/8/1992,9:00,Upstream,Group,Cylindrical,2.5,0,1.1,10.1,Unknown,Unknown,0.09,0.18,0.37,0.65,2.03,Unknown,1.7,1
+DE,Assawoman Bay,16,"Assawoman Bay at S.R. 54 near Fenwick Island, DE",C,6/8/1992,10:30,Upstream,Group,Cylindrical,2.5,0,0.8,10.2,Unknown,Unknown,0.09,0.18,0.37,0.65,2.03,Unknown,1.1,1
+DE,Assawoman Bay,16,"Assawoman Bay at S.R. 54 near Fenwick Island, DE",E,9/24/1991,14:00,Upstream,Group,Cylindrical,2.5,0,1.1,26.2,Unknown,Unknown,0.09,0.18,0.37,0.65,2.03,Unknown,5.2,1
+DE,Assawoman Bay,16,"Assawoman Bay at S.R. 54 near Fenwick Island, DE",E,6/8/1992,9:00,Upstream,Group,Cylindrical,2.5,0,1.6,25.5,Unknown,Unknown,0.09,0.18,0.37,0.65,2.03,Unknown,4.5,1
+DE,Assawoman Bay,16,"Assawoman Bay at S.R. 54 near Fenwick Island, DE",E,6/8/1992,10:30,Upstream,Group,Cylindrical,2.5,0,1.6,25.5,Unknown,Unknown,0.09,0.18,0.37,0.65,2.03,Unknown,4.5,1
+DE,Assawoman Bay,16,"Assawoman Bay at S.R. 54 near Fenwick Island, DE",F,9/24/1991,14:00,Upstream,Group,Cylindrical,2.5,0,1.4,23.4,Unknown,Unknown,0.06,0.18,0.37,0.65,2.03,Unknown,1.5,1
+DE,Assawoman Bay,16,"Assawoman Bay at S.R. 54 near Fenwick Island, DE",G,6/8/1992,10:30,Upstream,Group,Cylindrical,2.5,0,1,12.2,Unknown,Unknown,0.06,0.18,0.37,0.65,2.03,Unknown,0.5,1
+DE,Assawoman Bay,16,"Assawoman Bay at S.R. 54 near Fenwick Island, DE",H,6/8/1992,10:30,Upstream,Group,Cylindrical,2.5,0,0.6,4.8,Unknown,Unknown,0.06,0.18,0.37,0.65,2.03,Unknown,1.5,1
+DE,Assawoman Bay,16,"Assawoman Bay at S.R. 54 near Fenwick Island, DE",I,6/8/1992,9:00,Upstream,Group,Cylindrical,2.5,0,0.7,1,Unknown,Unknown,0.06,0.18,0.37,0.65,2.03,Unknown,0.7,1
+DE,Assawoman Bay,16,"Assawoman Bay at S.R. 54 near Fenwick Island, DE",F,6/8/1992,10:30,Upstream,Group,Cylindrical,2.5,0,1.6,24.8,Unknown,Unknown,0.06,0.18,0.37,0.65,2.03,Unknown,4,1
+DE,Assawoman Bay,16,"Assawoman Bay at S.R. 54 near Fenwick Island, DE",F,6/8/1992,9:00,Upstream,Group,Cylindrical,2.5,0,1.7,25,Unknown,Unknown,0.06,0.18,0.37,0.65,2.03,Unknown,4,1
+DE,Leipsic River,15,"Leipsic River at S.R. 9 at Leipsic, DE",C2,6/10/1992,10:30,Upstream,Group,Square,1.25,0,1.6,13.9,Unknown,Unknown,0.055,0.4,1.4,8,5.05,Unknown,0.7,1
+DE,Leipsic River,15,"Leipsic River at S.R. 9 at Leipsic, DE",C2,11/15/1990,13:30,Upstream,Group,Square,1.25,0,2.2,17.3,Unknown,Unknown,0.055,0.4,1.4,8,5.05,Unknown,0.8,1
+DE,Leipsic River,15,"Leipsic River at S.R. 9 at Leipsic, DE",C2,12/2/1990,13:00,Upstream,Group,Square,1.25,0,1.3,15.7,Unknown,Unknown,0.055,0.4,1.4,8,5.05,Unknown,1,1
+DE,Leipsic River,15,"Leipsic River at S.R. 9 at Leipsic, DE",C2,6/10/1992,9:30,Upstream,Group,Square,1.25,0,1.7,15,Unknown,Unknown,0.055,0.4,1.4,8,5.05,Unknown,0.6,1
+DE,Leipsic River,15,"Leipsic River at S.R. 9 at Leipsic, DE",C2,6/10/1992,11:30,Upstream,Group,Square,1.25,0,1.5,12.3,Unknown,Unknown,0.055,0.4,1.4,8,5.05,Unknown,0.5,1
+DE,Leipsic River,15,"Leipsic River at S.R. 9 at Leipsic, DE",C3,11/15/1990,13:30,Upstream,Group,Square,1.25,0,1.7,13.2,Unknown,Unknown,0.055,0.4,1.4,8,5.05,Unknown,0.3,1
+DE,Leipsic River,15,"Leipsic River at S.R. 9 at Leipsic, DE",C3,6/10/1992,10:30,Upstream,Group,Square,1.25,0,1.7,16.2,Unknown,Unknown,0.055,0.4,1.4,8,5.05,Unknown,0.9,1
+DE,Leipsic River,15,"Leipsic River at S.R. 9 at Leipsic, DE",C2,12/2/1990,14:00,Upstream,Group,Square,1.25,0,2.2,13.9,Unknown,Unknown,0.055,0.4,1.4,8,5.05,Unknown,0.8,1
+DE,Leipsic River,15,"Leipsic River at S.R. 9 at Leipsic, DE",C2,11/28/1988,16:00,Upstream,Group,Square,1.25,0,1.8,15.4,Unknown,Unknown,0.055,0.4,1.4,8,5.05,Unknown,0.5,1
+DE,Leipsic River,15,"Leipsic River at S.R. 9 at Leipsic, DE",C2,10/7/1991,13:00,Upstream,Group,Square,1.25,0,1.6,15.2,Unknown,Unknown,0.055,0.4,1.4,8,5.05,Unknown,0.5,1
+DE,Leipsic River,15,"Leipsic River at S.R. 9 at Leipsic, DE",C2,12/4/1990,15:00,Upstream,Group,Square,1.25,0,1.4,15.5,Unknown,Unknown,0.055,0.4,1.4,8,5.05,Unknown,1,1
+GA,South Altamaha River,17,"South Altamaha River at I-95 near Brunswick, GA",11,2/12/1990,17:05,Upstream,Group,Square,4,0,1.7,18.1,Live-bed,Non-cohesive,0.55,1,2.45,4.1,2.1,Insignificant,6.6,0.3
+GA,South Altamaha River,17,"South Altamaha River at I-95 near Brunswick, GA",12,2/12/1990,14:45,Upstream,Group,Square,4,0,2.3,20.9,Live-bed,Non-cohesive,0.55,1,2.45,4.1,2.1,Insignificant,4.7,0.3
+GA,South Altamaha River,17,"South Altamaha River at I-95 near Brunswick, GA",13,2/12/1990,14:45,Upstream,Group,Square,6,0,2.2,24.8,Live-bed,Non-cohesive,0.55,1,2.45,4.1,2.1,Insignificant,4.8,0.3
+GA,South Altamaha River,17,"South Altamaha River at I-95 near Brunswick, GA",13,2/12/1990,17:05,Upstream,Group,Square,6,0,2.2,23.1,Live-bed,Non-cohesive,0.55,1,2.45,4.1,2.1,Insignificant,5.2,0.3
+GA,South Altamaha River,17,"South Altamaha River at I-95 near Brunswick, GA",13,2/12/1990,13:00,Upstream,Group,Square,6,0,1.7,26.4,Live-bed,Non-cohesive,0.55,1,2.45,4.1,2.1,Insignificant,3.9,0.3
+GA,South Altamaha River,17,"South Altamaha River at I-95 near Brunswick, GA",12,2/12/1990,17:05,Upstream,Group,Square,4,0,2.3,20.2,Live-bed,Non-cohesive,0.55,1,2.45,4.1,2.1,Insignificant,5.5,0.3
+GA,South Altamaha River,17,"South Altamaha River at I-95 near Brunswick, GA",12,2/12/1990,13:00,Upstream,Group,Square,4,0,1.8,23.2,Live-bed,Non-cohesive,0.55,1,2.45,4.1,2.1,Insignificant,4,0.3
+GA,South Altamaha River,17,"South Altamaha River at I-95 near Brunswick, GA",11,2/12/1990,14:45,Upstream,Group,Square,4,0,1.9,18.7,Live-bed,Non-cohesive,0.55,1,2.45,4.1,2.1,Insignificant,7,0.3
+IL,Mississippi River,57,"Mississippi River at S.R. 51/150 at Chester, Ill.",11,9/13/1993,,Upstream,Single,Square,15.4,4,6,54.8,Live-bed,Non-cohesive,0.3,0.6,1.3,4.2,2.08,Insignificant,21.4,2
+IL,Mississippi River,57,"Mississippi River at S.R. 51/150 at Chester, Ill.",11,8/12/1993,,Upstream,Single,Square,13.5,4,6.6,73.4,Live-bed,Non-cohesive,0.3,0.6,1.3,4.2,2.08,Insignificant,20.4,2
+IL,Mississippi River,57,"Mississippi River at S.R. 51/150 at Chester, Ill.",11,8/3/1993,,Upstream,Single,Square,13,11,8,73.9,Live-bed,Non-cohesive,0.3,0.6,1.3,4.2,2.08,Insignificant,23.3,2
+IN,Eel River,18,"Eel River at S.R. 59 near Clay City, IN",2,11/13/1992,10:30,Upstream,Single,Round,3,0,2.5,19.5,Live-bed,Non-cohesive,0.25,0.5,2.25,8,3,Unknown,3.4,0.5
+IN,Eel River,18,"Eel River at S.R. 59 near Clay City, IN",1,11/13/1992,12:30,Downstream,Single,Round,3,0,1,16.8,Live-bed,Non-cohesive,0.25,0.5,2.25,8,3,Unknown,1.4,0.5
+IN,Wabash River,19,"Wabash River at S.R. 163 at Clinton, IN",8,1/3/1991,11:45,Downstream,Single,Round,3,5,5.2,30.9,Live-bed,Non-cohesive,0.24,0.34,0.34,0.55,1.38,Unknown,1.5,0.5
+IN,Wabash River,19,"Wabash River at S.R. 163 at Clinton, IN",8,1/3/1991,11:00,Upstream,Single,Round,3,5,5.2,30.9,Live-bed,Non-cohesive,0.24,0.34,0.34,0.55,1.38,Unknown,2.3,0.5
+IN,White River,20,"White River at S.R. 157 at Worthington, IN",2,1/4/1991,12:00,Upstream,Single,Round,3,5,3.3,10.4,Live-bed,Non-cohesive,0.24,0.9,4.2,7,4.2,Unknown,1.3,0.5
+IN,White River,20,"White River at S.R. 157 at Worthington, IN",4,1/3/1991,12:30,Upstream,Single,Round,2,10,5.4,21.5,Live-bed,Non-cohesive,0.24,0.9,4.2,7,4.2,Unknown,3.5,0.5
+IN,White River,20,"White River at S.R. 157 at Worthington, IN",4,1/4/1991,12:00,Upstream,Single,Round,2,10,6.1,20.2,Live-bed,Non-cohesive,0.24,0.9,4.2,7,4.2,Unknown,4.1,0.5
+IN,White River,20,"White River at S.R. 157 at Worthington, IN",2,1/4/1991,13:00,Downstream,Single,Round,3,5,3.3,10.4,Live-bed,Non-cohesive,0.24,0.9,4.2,7,4.2,Unknown,0.8,0.5
+IN,White River,20,"White River at S.R. 157 at Worthington, IN",2,1/3/1991,12:30,Upstream,Single,Round,3,5,3.6,11.3,Live-bed,Non-cohesive,0.24,0.9,4.2,7,4.2,Unknown,1.2,0.5
+IN,White River,20,"White River at S.R. 157 at Worthington, IN",3,1/3/1991,12:30,Upstream,Single,Round,3,0,4.2,16.7,Live-bed,Non-cohesive,0.24,0.9,4.2,7,4.2,Unknown,2.2,0.5
+LA,Red River,21,"Red River at S.R. 3032 near Shreveport, LA, E.B.",4,5/19/1990,15:30,Downstream,Single,Sharp,14,0,8.4,40.2,Live-bed,Non-cohesive,0.2,0.3,0.4,0.5,1.4,Insignificant,3,1
+LA,Red River,21,"Red River at S.R. 3032 near Shreveport, LA, E.B.",5,5/19/1990,15:30,Downstream,Single,Sharp,14,0,10.4,41.4,Live-bed,Non-cohesive,0.2,0.3,0.4,0.5,1.4,Insignificant,17,2
+LA,Red River,21,"Red River at S.R. 3032 near Shreveport, LA, E.B.",5,5/22/1990,13:35,Upstream,Single,Sharp,14,0,9.5,32.1,Live-bed,Non-cohesive,0.2,0.3,0.4,0.5,1.4,Insignificant,25.1,1
+LA,Red River,21,"Red River at S.R. 3032 near Shreveport, LA, E.B.",5,5/22/1990,14:45,Downstream,Single,Sharp,14,0,9.5,32.1,Live-bed,Non-cohesive,0.2,0.3,0.4,0.5,1.4,Insignificant,18.5,1
+LA,Red River,21,"Red River at S.R. 3032 near Shreveport, LA, E.B.",4,5/22/1990,13:35,Upstream,Single,Sharp,14,0,6.9,30.9,Live-bed,Non-cohesive,0.2,0.3,0.4,0.5,1.4,Insignificant,11.4,1
+LA,Red River,21,"Red River at S.R. 3032 near Shreveport, LA, E.B.",5,5/19/1990,14:20,Upstream,Single,Sharp,14,0,10.4,39.2,Live-bed,Non-cohesive,0.2,0.3,0.4,0.5,1.4,Insignificant,22.9,2
+LA,Red River,21,"Red River at S.R. 3032 near Shreveport, LA, E.B.",4,5/22/1990,14:45,Downstream,Single,Sharp,14,0,6.9,30.8,Live-bed,Non-cohesive,0.2,0.3,0.4,0.5,1.4,Insignificant,3.7,1
+LA,Red River,21,"Red River at S.R. 3032 near Shreveport, LA, E.B.",4,5/19/1990,14:20,Upstream,Single,Sharp,14,0,8.4,38,Live-bed,Non-cohesive,0.2,0.3,0.4,0.5,1.4,Insignificant,12.2,2
+LA,Red River,22,"Red River at S.R. 3032 near Shreveport, LA, W.B.",5,5/19/1990,12:55,Downstream,Single,Round,14,0,10.4,38.3,Live-bed,Non-cohesive,0.2,0.3,0.4,0.5,1.4,Insignificant,16.9,1
+LA,Red River,22,"Red River at S.R. 3032 near Shreveport, LA, W.B.",5,5/17/1990,15:10,Downstream,Single,Round,14,0,9.8,38.5,Live-bed,Non-cohesive,0.2,0.3,0.4,0.5,1.4,Insignificant,15.6,2
+LA,Red River,22,"Red River at S.R. 3032 near Shreveport, LA, W.B.",4,5/19/1990,10:25,Upstream,Single,Round,14,0,8.4,35.5,Live-bed,Non-cohesive,0.2,0.3,0.4,0.5,1.4,Insignificant,10.8,2
+LA,Red River,22,"Red River at S.R. 3032 near Shreveport, LA, W.B.",5,5/22/1990,8:55,Downstream,Single,Round,14,0,9.5,31.6,Live-bed,Non-cohesive,0.2,0.3,0.4,0.5,1.4,Insignificant,18.5,2
+LA,Red River,22,"Red River at S.R. 3032 near Shreveport, LA, W.B.",4,5/17/1990,15:10,Downstream,Single,Round,14,0,8.2,38.5,Live-bed,Non-cohesive,0.2,0.3,0.4,0.5,1.4,Insignificant,12.9,2
+LA,Red River,22,"Red River at S.R. 3032 near Shreveport, LA, W.B.",5,5/17/1990,13:30,Upstream,Single,Round,14,0,9.8,39.5,Live-bed,Non-cohesive,0.2,0.3,0.4,0.5,1.4,Insignificant,14.9,1
+LA,Red River,22,"Red River at S.R. 3032 near Shreveport, LA, W.B.",5,5/19/1990,10:25,Upstream,Single,Round,14,0,10.4,36.7,Live-bed,Non-cohesive,0.2,0.3,0.4,0.5,1.4,Insignificant,18.1,1
+LA,Red River,22,"Red River at S.R. 3032 near Shreveport, LA, W.B.",5,5/22/1990,10:30,Upstream,Single,Round,14,0,9.5,31.8,Live-bed,Non-cohesive,0.2,0.3,0.4,0.5,1.4,Insignificant,12.3,1
+LA,Red River,22,"Red River at S.R. 3032 near Shreveport, LA, W.B.",4,5/22/1990,10:30,Upstream,Single,Round,14,0,6.9,30.6,Live-bed,Non-cohesive,0.2,0.3,0.4,0.5,1.4,Insignificant,12.6,1
+LA,Red River,22,"Red River at S.R. 3032 near Shreveport, LA, W.B.",4,5/19/1990,12:55,Downstream,Single,Round,14,0,8.4,37,Live-bed,Non-cohesive,0.2,0.3,0.4,0.5,1.4,Insignificant,6.8,1
+LA,Red River,22,"Red River at S.R. 3032 near Shreveport, LA, W.B.",4,5/22/1990,8:55,Downstream,Single,Round,14,0,6.9,30.4,Live-bed,Non-cohesive,0.2,0.3,0.4,0.5,1.4,Insignificant,13.7,1
+LA,Red River,22,"Red River at S.R. 3032 near Shreveport, LA, W.B.",4,5/17/1990,13:30,Upstream,Single,Round,14,0,8.2,38.3,Live-bed,Non-cohesive,0.2,0.3,0.4,0.5,1.4,Insignificant,14.4,1
+MD,Big Pipe Creek,24,"Big Pipe Creek at S.R. 194 at Bruceville, MD",1,9/25/1975,19:00,Upstream,Single,Round,4,0,4.3,10.2,Unknown,Unknown,13,22,76,160,2.4,Unknown,1.4,1
+MD,Big Pipe Creek,24,"Big Pipe Creek at S.R. 194 at Bruceville, MD",2,6/23/1972,17:30,Upstream,Single,Round,4,0,3.7,8,Unknown,Unknown,13,22,76,160,2.4,Unknown,2.4,1
+MD,Big Pipe Creek,24,"Big Pipe Creek at S.R. 194 at Bruceville, MD",2,10/23/1990,20:00,Upstream,Single,Round,4,0,5.3,10.1,Unknown,Unknown,13,22,76,160,2.4,Unknown,1.7,1
+MD,Big Pipe Creek,24,"Big Pipe Creek at S.R. 194 at Bruceville, MD",2,5/29/1990,20:30,Upstream,Single,Round,4,0,3.3,6.3,Unknown,Unknown,13,22,76,160,2.4,Unknown,1,1
+MD,Big Pipe Creek,24,"Big Pipe Creek at S.R. 194 at Bruceville, MD",2,10/23/1990,15:30,Upstream,Single,Round,4,0,5.4,6.6,Unknown,Unknown,13,22,76,160,2.4,Unknown,1.2,1
+MD,Big Pipe Creek,24,"Big Pipe Creek at S.R. 194 at Bruceville, MD",2,9/25/1975,19:00,Upstream,Single,Round,4,0,5.2,8,Unknown,Unknown,13,22,76,160,2.4,Unknown,1.8,1
+MD,Big Pipe Creek,24,"Big Pipe Creek at S.R. 194 at Bruceville, MD",1,6/23/1972,17:30,Upstream,Single,Round,4,0,2.6,11.6,Unknown,Unknown,13,22,76,160,2.4,Unknown,1.2,1
+MD,Choptank River,25,"Choptank River at S.R. 287 near Goldsboro, MD",RT,7/28/1991,10:30,Upstream,Single,Square,4,0,1,4.8,Unknown,Unknown,0.18,0.38,0.94,2.6,2.29,Unknown,2.2,1
+MD,Choptank River,25,"Choptank River at S.R. 287 near Goldsboro, MD",LEFT,7/28/1991,10:30,Upstream,Single,Square,4,0,2.5,7.3,Unknown,Unknown,0.18,0.38,0.94,2.6,2.29,Unknown,4.3,1
+MD,Choptank River,25,"Choptank River at S.R. 287 near Goldsboro, MD",LEFT,3/25/1989,14:00,Upstream,Single,Square,4,0,2.5,10.1,Unknown,Non-cohesive,0.18,0.38,0.94,2.6,2.29,Unknown,5.4,1
+MD,Choptank River,25,"Choptank River at S.R. 287 near Goldsboro, MD",LEFT,2/23/1989,11:00,Upstream,Single,Square,4,0,2.2,6.2,Unknown,Non-cohesive,0.18,0.38,0.94,2.6,2.29,Unknown,4,1
+MD,Choptank River,25,"Choptank River at S.R. 287 near Goldsboro, MD",RT,2/23/1989,14:00,Upstream,Single,Square,4,0,1.9,7,Unknown,Unknown,0.18,0.38,0.94,2.6,2.29,Unknown,2.3,1
+MD,Choptank River,25,"Choptank River at S.R. 287 near Goldsboro, MD",CNTR,2/23/1989,11:00,Upstream,Single,Square,4,0,0.3,3.6,Unknown,Unknown,0.18,0.38,0.94,2.6,2.29,Unknown,2.2,1
+MD,Choptank River,25,"Choptank River at S.R. 287 near Goldsboro, MD",RT,2/23/1989,11:00,Upstream,Single,Square,4,0,0.9,3.7,Unknown,Unknown,0.18,0.38,0.94,2.6,2.29,Unknown,1.6,1
+MD,Choptank River,25,"Choptank River at S.R. 287 near Goldsboro, MD",CNTR,3/25/1989,14:00,Upstream,Single,Square,4,0,1.4,7.1,Unknown,Unknown,0.18,0.38,0.94,2.6,2.29,Unknown,2.4,1
+MD,Choptank River,25,"Choptank River at S.R. 287 near Goldsboro, MD",CNTR,7/28/1991,10:30,Upstream,Single,Square,4,0,0.7,4.9,Unknown,Unknown,0.18,0.38,0.94,2.6,2.29,Unknown,2,1
+MD,Youghiogheny,23,"Youghiogheny River at S.R.42 at Friendsville, MD",RT,7/13/1990,13:00,Upstream,Single,Sharp,5,0,8.6,9.9,Unknown,Unknown,68,108,233,350,1.8,Unknown,2.7,1
+MD,Youghiogheny,23,"Youghiogheny River at S.R.42 at Friendsville, MD",LEFT,4/1/1993,9:30,Upstream,Single,Sharp,5,0,6.9,6.8,Unknown,Unknown,68,108,233,350,1.8,Unknown,1.4,1
+MD,Youghiogheny,23,"Youghiogheny River at S.R.42 at Friendsville, MD",RT,4/1/1993,9:30,Upstream,Single,Sharp,5,0,6.2,8,Unknown,Unknown,68,108,233,350,1.8,Unknown,1.7,1
+MD,Youghiogheny,23,"Youghiogheny River at S.R.42 at Friendsville, MD",LEFT,7/13/1990,13:00,Upstream,Single,Sharp,5,0,7.7,7.9,Unknown,Unknown,68,108,233,350,1.8,Unknown,1.1,1
+MN,Mississippi River,58,"Mississippi River at S.R. 3 at St. Paul, MN",10,4/28/1969,12:15,Upstream,Single,Square,12,0,3.8,26,Live-bed,Non-cohesive,0.2,0.48,0.67,1.1,1.8,Insignificant,1.3,0.1
+MN,Mississippi River,58,"Mississippi River at S.R. 3 at St. Paul, MN",9,4/28/1969,12:15,Upstream,Single,Square,18.1,0,3.8,28.6,Live-bed,Non-cohesive,0.2,0.48,0.67,1.1,1.8,Insignificant,10.3,0.2
+MN,Mississippi River,58,"Mississippi River at S.R. 3 at St. Paul, MN",9,4/23/1969,11:37,Upstream,Single,Square,17.7,0,4.6,31.3,Live-bed,Non-cohesive,0.2,0.48,0.67,1.1,1.8,Insignificant,13.8,0.5
+MN,Mississippi River,58,"Mississippi River at S.R. 3 at St. Paul, MN",9,4/15/1969,12:40,Upstream,Single,Square,17.3,0,5.2,38.6,Live-bed,Non-cohesive,0.2,0.48,0.67,1.1,1.8,Insignificant,15,0.5
+MN,Mississippi River,58,"Mississippi River at S.R. 3 at St. Paul, MN",9,4/9/1969,11:52,Upstream,Single,Square,14.9,0,3.9,27.8,Live-bed,Non-cohesive,0.2,0.48,0.67,1.1,1.8,Insignificant,2.7,0.2
+MN,Mississippi River,58,"Mississippi River at S.R. 3 at St. Paul, MN",9,4/3/1969,11:57,Upstream,Single,Square,15.9,0,2.5,21.2,Live-bed,Non-cohesive,0.2,0.48,0.67,1.1,1.8,Insignificant,2.8,0.2
+MN,Mississippi River,58,"Mississippi River at S.R. 3 at St. Paul, MN",10,4/23/1969,11:37,Upstream,Single,Square,12,0,4.6,32,Live-bed,Non-cohesive,0.2,0.48,0.67,1.1,1.8,Insignificant,2.6,0.1
+MN,Mississippi River,58,"Mississippi River at S.R. 3 at St. Paul, MN",9,3/28/1969,14:30,Upstream,Single,Square,16.4,0,2.2,19.5,Live-bed,Non-cohesive,0.2,0.48,0.67,1.1,1.8,Insignificant,3,0.1
+MN,Mississippi River,58,"Mississippi River at S.R. 3 at St. Paul, MN",10,4/15/1969,12:40,Upstream,Single,Square,10.3,0,5.2,32.1,Live-bed,Non-cohesive,0.2,0.48,0.67,1.1,1.8,Insignificant,2.2,0.1
+MN,Mississippi River,58,"Mississippi River at S.R. 3 at St. Paul, MN",10,4/9/1969,11:52,Upstream,Single,Square,10.9,0,3.9,22,Live-bed,Non-cohesive,0.2,0.48,6.7,1.1,1.8,Insignificant,2.9,0.1
+MN,Mississippi River,58,"Mississippi River at S.R. 3 at St. Paul, MN",9,6/4/1969,13:55,Upstream,Single,Square,16.8,0,1.5,18.8,Live-bed,Non-cohesive,0.2,0.48,0.67,1.1,1.8,Unknown,2.2,0.1
+MN,Mississippi River,58,"Mississippi River at S.R. 3 at St. Paul, MN",10,4/3/1969,11:57,Upstream,Single,Square,10.8,0,2.5,15.7,Live-bed,Non-cohesive,0.2,0.48,6.7,1.1,1.8,Insignificant,1.4,0.1
+MN,Mississippi River,58,"Mississippi River at S.R. 3 at St. Paul, MN",10,6/4/1969,13:35,Upstream,Single,Square,13.4,0,1.5,15.5,Live-bed,Non-cohesive,0.2,0.48,0.67,1.1,1.8,Insignificant,1.6,0.1
+MN,Mississippi River,58,"Mississippi River at S.R. 3 at St. Paul, MN",10,3/28/1969,14:30,Upstream,Single,Square,10.9,0,2.2,14,Live-bed,Non-cohesive,0.2,0.48,6.7,1.1,1.8,Insignificant,1.7,0.1
+MO,Chariton River,80,"Chariton River near Prairie Hill, MO",2,5/24/1995,,Upstream,Single,Round,7.23,0,6.8,18.2,Live-bed,Unknown,,,,,,Substantial,12.8,0.5
+MO,Chariton River,80,"Chariton River near Prairie Hill, MO",2,7/8/1993,,Upstream,Single,Round,14.34,0,8,17.1,Live-bed,Unknown,,,,,,Substantial,21.1,0.5
+MO,Chariton River,80,"Chariton River near Prairie Hill, MO",2,3/29/1960,,Upstream,Single,Round,9.58,0,7.2,15.4,Live-bed,Non-Cohesive,,,,,,Substantial,15.3,0.5
+MO,Chariton River,80,"Chariton River near Prairie Hill, MO",2,5/8/1978,,Upstream,Single,Round,13.36,0,7,18,Live-bed,Unknown,,,,,,Substantial,19.2,0.5
+MO,Chariton River,80,"Chariton River near Prairie Hill, MO",2,4/22/1973,,Upstream,Single,Round,13.28,0,5.3,19.1,Live-bed,Non-Cohesive,,,,,,Substantial,17.1,0.5
+MO,Mississippi River,75,"Mississippi River at I-255 (Jefferson Barracks Bridge) near St. Louis, MO",8,9/16/1993,,Upstream,Single,Square,9.3,0,3.5,36.2,Live-bed,Non-cohesive,0.28,0.7,2.1,4.6,2.7,Insignificant,14,2
+MO,Mississippi River,75,"Mississippi River at I-255 (Jefferson Barracks Bridge) near St. Louis, MO",9,7/14/1993,,Upstream,Single,Square,9.6,0,,43.5,Live-bed,Non-cohesive,0.28,0.7,2.1,4.6,2.7,Insignificant,13,3
+MO,Mississippi River,75,"Mississippi River at I-255 (Jefferson Barracks Bridge) near St. Louis, MO",9,8/17/1993,,Upstream,Single,Square,9.6,0,4.5,42.3,Live-bed,Non-cohesive,0.28,0.7,2.1,4.6,2.7,Insignificant,12,2
+MO,Mississippi River,75,"Mississippi River at I-255 (Jefferson Barracks Bridge) near St. Louis, MO",9,7/19/1993,,Upstream,Single,Square,9.6,0,6.4,50.4,Live-bed,Non-cohesive,0.28,0.7,2.1,4.6,2.7,Insignificant,12.3,2
+MO,Mississippi River,75,"Mississippi River at I-255 (Jefferson Barracks Bridge) near St. Louis, MO",8,7/17/1993,,Upstream,Single,Square,9.3,0,6.3,47,Live-bed,Non-cohesive,0.28,0.7,2.1,4.6,2.7,Insignificant,14,2
+MO,Mississippi River,75,"Mississippi River at I-255 (Jefferson Barracks Bridge) near St. Louis, MO",9,9/16/1993,,Upstream,Single,Square,9.6,0,4,36.2,Live-bed,Non-cohesive,0.28,0.7,2.1,4.6,2.7,Insignificant,12,2
+MO,Mississippi River,75,"Mississippi River at I-255 (Jefferson Barracks Bridge) near St. Louis, MO",8,7/19/1993,,Upstream,Single,Square,9.3,0,6.6,49.4,Live-bed,Unknown,0.28,0.7,2.1,4.6,2.7,Insignificant,12.6,2
+MO,Mississippi River,75,"Mississippi River at I-255 (Jefferson Barracks Bridge) near St. Louis, MO",8,7/14/1993,,Upstream,Single,Square,9.3,0,,41.5,Live-bed,Non-cohesive,0.28,0.7,2.1,4.6,2.7,Insignificant,12,3
+MO,Mississippi River,75,"Mississippi River at I-255 (Jefferson Barracks Bridge) near St. Louis, MO",8,8/17/1993,,Upstream,Single,Square,9.3,0,4,42.3,Live-bed,Non-cohesive,0.28,0.7,2.1,4.6,2.7,Insignificant,12.5,2
+MO,Mississippi River,75,"Mississippi River at I-255 (Jefferson Barracks Bridge) near St. Louis, MO",9,7/17/1993,,Upstream,Single,Square,9.6,0,7.4,48,Live-bed,Non-cohesive,0.28,0.7,2.1,4.6,2.7,Insignificant,13,2
+MO,Mississippi River,76,"Mississippi River at Martin Luther King Memorial Bridge (S.R. 799)  at St. Louis, MO",10,7/15/1993,,Upstream,Single,Sharp,17.9,0,8.6,65.7,Live-bed,Non-cohesive,0.55,0.96,2.5,4.03,2.1,Insignificant,13.5,2
+MS,Homochitto River,28,"Homochitto River at U.S. 84 at Eddiceton, MS",4,12/21/1972,6:00,Upstream,Single,Cylindrical,8,0,7,12.9,Live-bed,Non-cohesive,0.49,7.51,23.2,27,6.9,Unknown,2.9,0.5
+MS,Homochitto River,28,"Homochitto River at U.S. 84 at Eddiceton, MS",4,4/25/1973,5:30,Upstream,Single,Cylindrical,8,0,6.1,8.7,Live-bed,Non-cohesive,0.49,7.51,23.2,27,6.9,Unknown,2.9,0.5
+MS,Homochitto River,28,"Homochitto River at U.S. 84 at Eddiceton, MS",3,8/27/1992,10:10,Downstream,Single,Cylindrical,8,0,6.2,8.5,Live-bed,Non-cohesive,0.49,7.51,23.2,27,6.9,Substantial,3.2,1
+MS,Homochitto River,28,"Homochitto River at U.S. 84 at Eddiceton, MS",4,1/25/1990,9:00,Upstream,Single,Cylindrical,8,0,6.9,9.5,Live-bed,Non-cohesive,0.49,7.51,23.2,27,6.9,Insignificant,3.9,1
+MS,Homochitto River,28,"Homochitto River at U.S. 84 at Eddiceton, MS",5,1/25/1990,9:00,Upstream,Single,Cylindrical,8,0,5.7,10,Live-bed,Non-cohesive,0.49,7.51,23.2,27,6.9,Insignificant,4.7,1
+MS,Homochitto River,28,"Homochitto River at U.S. 84 at Eddiceton, MS",5,8/27/1992,10:55,Upstream,Single,Cylindrical,8,0,6.6,10.2,Live-bed,Non-cohesive,0.49,7.51,23.2,27,6.9,Insignificant,4.5,1
+MS,Homochitto River,28,"Homochitto River at U.S. 84 at Eddiceton, MS",4,8/27/1992,11:10,Upstream,Single,Cylindrical,8,0,7.4,8.7,Live-bed,Non-cohesive,0.49,7.51,23.2,27,6.9,Insignificant,6.4,1
+MS,Homochitto River,28,"Homochitto River at U.S. 84 at Eddiceton, MS",3,1/25/1990,9:00,Upstream,Single,Cylindrical,8,0,6.2,10,Live-bed,Non-cohesive,0.49,7.51,23.2,27,6.9,Insignificant,4.1,1
+MS,Pearl River,26,"Pearl River at westbound S.R. 25 at Jackson, MS",16L,2/25/1991,14:30,Upstream,Group,Square,2.66,16,4,29,Live-bed,Non-cohesive,0.36,0.54,1.2,2.9,1.8,Insignificant,1.4,0.5
+MS,Pearl River,26,"Pearl River at westbound S.R. 25 at Jackson, MS",12L,5/1/1991,10:00,Downstream,Group,Square,1.33,23,2.8,16.7,Clear-water,Cohesive,,,,,,Insignificant,2.5,0.5
+MS,Pearl River,26,"Pearl River at westbound S.R. 25 at Jackson, MS",14L,2/25/1991,14:30,Upstream,Group,Square,1.33,18,3.1,24.1,Clear-water,Cohesive,,,,,,Insignificant,0,0.5
+MS,Pearl River,26,"Pearl River at westbound S.R. 25 at Jackson, MS",14L,5/1/1991,10:00,Upstream,Group,Square,1.33,16,4.2,21,Clear-water,Cohesive,,,,,,Insignificant,0,0.5
+MS,Pearl River,26,"Pearl River at westbound S.R. 25 at Jackson, MS",16L,5/1/1991,10:00,Upstream,Group,Square,2.66,8,4.7,26.9,Live-bed,Non-cohesive,0.36,0.54,1.2,2.9,1.8,Moderate,1.4,0.5
+MS,Pearl River,26,"Pearl River at westbound S.R. 25 at Jackson, MS",12L,2/25/1991,14:30,Upstream,Group,Square,1.33,28,2.5,9.6,Clear-water,Cohesive,,,,,,Insignificant,2,0.5
+MS,Pearl River,26,"Pearl River at westbound S.R. 25 at Jackson, MS",17L,5/1/1991,10:00,Upstream,Group,Cylindrical,4.7,11,3.5,21.4,Live-bed,Non-cohesive,0.26,0.39,0.9,1.3,1.9,Insignificant,4.1,0.5
+MS,Pearl River,26,"Pearl River at westbound S.R. 25 at Jackson, MS",17L,2/25/1991,14:30,Upstream,Group,Cylindrical,5.4,16,3.4,22,Live-bed,Non-cohesive,0.26,0.39,0.9,1.3,1.9,Insignificant,3.6,0.5
+MS,Pearl River,26,"Pearl River at westbound S.R. 25 at Jackson, MS",18L,5/1/1991,10:00,Downstream,Group,Cylindrical,4.9,14,2.2,22.3,Live-bed,Non-cohesive,0.26,0.39,0.9,1.3,1.9,Insignificant,2.6,0.5
+MS,Pearl River,26,"Pearl River at westbound S.R. 25 at Jackson, MS",18L,2/25/1991,14:30,Upstream,Group,Cylindrical,5.3,16,1.9,21.1,Live-bed,Non-cohesive,0.26,0.39,0.9,1.3,1.9,Moderate,2,0.5
+MS,Pearl River,26,"Pearl River at westbound S.R. 25 at Jackson, MS",18L,1/31/1990,15:00,Upstream,Group,Cylindrical,5.8,11,1.3,17.4,Live-bed,Non-cohesive,0.26,0.39,0.9,1.3,1.9,Moderate,1.6,0.5
+MS,Pearl River,26,"Pearl River at westbound S.R. 25 at Jackson, MS",17L,1/31/1990,15:00,Upstream,Group,Cylindrical,5.8,11,2.8,17.5,Live-bed,Non-cohesive,0.26,0.39,0.9,1.3,1.9,Insignificant,2,0.5
+MS,Pearl River,26,"Pearl River at westbound S.R. 25 at Jackson, MS",15L,5/1/1991,10:00,Downstream,Group,Square,1.33,14,4.4,29,Live-bed,Non-cohesive,0.36,0.54,1.2,2.9,1.8,Insignificant,3,0.5
+MS,Pearl River,26,"Pearl River at westbound S.R. 25 at Jackson, MS",15L,2/25/1991,14:30,Upstream,Group,Square,1.33,16,3.8,29.2,Live-bed,Non-cohesive,0.36,0.54,1.2,2.9,1.8,Insignificant,1.3,0.5
+MS,Pearl River,27,"Pearl River at eastbound S.R. 25 at Jackson, MS",18R,5/1/1991,11:20,Upstream,Group,Cylindrical,5.1,14,2,23,Live-bed,Non-cohesive,0.26,0.39,0.9,1.3,1.9,Insignificant,3.7,0.5
+MS,Pearl River,27,"Pearl River at eastbound S.R. 25 at Jackson, MS",18R,2/25/1991,15:20,Upstream,Group,Cylindrical,5.1,20,2.4,20.2,Live-bed,Non-cohesive,0.26,0.39,0.9,1.3,1.9,Insignificant,5.7,0.5
+MS,Pearl River,27,"Pearl River at eastbound S.R. 25 at Jackson, MS",17R,5/1/1991,11:20,Upstream,Group,Cylindrical,4.8,8,3.2,21.7,Live-bed,Non-cohesive,0.26,0.39,0.9,1.3,1.9,Insignificant,3.9,0.5
+MS,Pearl River,27,"Pearl River at eastbound S.R. 25 at Jackson, MS",16R,2/25/1991,15:20,Upstream,Group,Square,2.67,16,3.9,27.5,Live-bed,Non-cohesive,0.36,0.54,1.2,2.9,1.8,Insignificant,2.9,0.5
+MS,Pearl River,27,"Pearl River at eastbound S.R. 25 at Jackson, MS",16R,5/1/1991,11:20,Downstream,Group,Square,2.67,11,4.7,26.6,Live-bed,Non-cohesive,0.36,0.54,1.2,2.9,1.8,Insignificant,2.1,0.5
+MS,Pearl River,27,"Pearl River at eastbound S.R. 25 at Jackson, MS",17R,2/25/1991,15:20,Upstream,Group,Cylindrical,5.5,16,2.8,23.3,Live-bed,Non-cohesive,0.26,0.39,0.9,1.3,1.9,Insignificant,1.6,0.5
+MS,Pearl River,27,"Pearl River at eastbound S.R. 25 at Jackson, MS",15R,5/1/1991,11:20,Upstream,Group,Square,1.33,16,5.1,30.6,Live-bed,Non-cohesive,0.36,0.54,1.2,2.9,1.8,Insignificant,1.4,0.5
+MS,Pearl River,29,"Pearl River at eastbound U.S. 98 near Columbia, MS",7,5/10/1991,14:45,Downstream,Group,Square,4.1,0,2.9,28.9,Live-bed,Non-cohesive,0.39,6.9,15,20,6.2,Insignificant,2.5,1
+MS,Pearl River,29,"Pearl River at eastbound U.S. 98 near Columbia, MS",6,5/10/1991,14:45,Downstream,Single,Square,5.7,11,5.1,30.1,Live-bed,Non-cohesive,0.39,6.9,15,20,6.2,Insignificant,7.4,1
+MS,Pearl River,29,"Pearl River at eastbound U.S. 98 near Columbia, MS",4,5/10/1991,14:45,Upstream,Single,Square,5.4,8,7,24.6,Live-bed,Non-cohesive,0.39,6.9,15,20,6.2,Insignificant,2.3,0.5
+MS,Pearl River,29,"Pearl River at eastbound U.S. 98 near Columbia, MS",5,1/30/1990,14:15,Upstream,Single,Square,6.1,8,6.5,28.1,Live-bed,Non-cohesive,0.39,6.9,15,20,6.2,Insignificant,5.3,0.5
+MS,Pearl River,29,"Pearl River at eastbound U.S. 98 near Columbia, MS",7,1/30/1990,14:15,Upstream,Group,Square,3.9,0,1.9,23,Live-bed,Non-cohesive,0.39,6.9,15,20,6.2,Insignificant,4.1,0.5
+MS,Pearl River,29,"Pearl River at eastbound U.S. 98 near Columbia, MS",4,1/30/1990,14:15,Downstream,Single,Square,5.4,14,7,22.3,Live-bed,Non-cohesive,0.39,6.9,15,20,6.2,Insignificant,4.8,0.5
+MS,Pearl River,29,"Pearl River at eastbound U.S. 98 near Columbia, MS",5,5/10/1991,14:45,Downstream,Single,Square,6,11,6.4,28.9,Live-bed,Non-cohesive,0.39,6.9,15,20,6.2,Insignificant,3.9,0.5
+MS,Pearl River,29,"Pearl River at eastbound U.S. 98 near Columbia, MS",6,1/30/1990,14:15,Upstream,Single,Square,5.5,0,3.5,26.4,Live-bed,Non-cohesive,0.39,6.9,15,20,6.2,Insignificant,5.7,1
+MS,Pearl River,30,"Pearl River at westbound U.S. 98 near Columbia, MS",6,1/30/1990,15:00,Downstream,Group,Cylindrical,5.5,14,6.9,27.7,Live-bed,Non-cohesive,0.39,6.9,15,20,6.2,Unknown,6.5,0.5
+MS,Pearl River,30,"Pearl River at westbound U.S. 98 near Columbia, MS",5,1/30/1990,15:00,Upstream,Group,Cylindrical,6.4,8,5.7,28.6,Live-bed,Non-cohesive,0.39,6.9,15,20,6.2,Unknown,3.3,0.5
+MS,Pearl River,30,"Pearl River at westbound U.S. 98 near Columbia, MS",4,1/30/1990,15:00,Upstream,Group,Cylindrical,5.5,8,4.6,25,Live-bed,Non-cohesive,0.39,6.9,15,20,6.2,Unknown,3.2,0.5
+MS,Pearl River,30,"Pearl River at westbound U.S. 98 near Columbia, MS",4,1/27/1990,14:55,Upstream,Group,Cylindrical,5.4,8,5.3,26.9,Live-bed,Non-cohesive,0.39,6.9,15,20,6.2,Unknown,1.9,0.5
+MS,Pearl River,30,"Pearl River at westbound U.S. 98 near Columbia, MS",4,5/10/1991,10:45,Upstream,Group,Cylindrical,5.5,11,5.1,29.1,Live-bed,Non-cohesive,0.39,6.9,15,20,6.2,Unknown,1.4,0.5
+MS,Pearl River,30,"Pearl River at westbound U.S. 98 near Columbia, MS",5,2/5/1990,17:35,Upstream,Group,Cylindrical,5.8,16,4.3,25.7,Live-bed,Non-cohesive,0.39,6.9,15,20,6.2,Unknown,2,0.5
+MS,Pearl River,30,"Pearl River at westbound U.S. 98 near Columbia, MS",6,1/27/1990,14:55,Upstream,Group,Cylindrical,5.5,16,5.6,30.1,Live-bed,Non-cohesive,0.39,6.9,15,20,6.2,Insignificant,4.9,0.5
+MS,Pearl River,30,"Pearl River at westbound U.S. 98 near Columbia, MS",5,1/27/1990,12:30,Upstream,Group,Cylindrical,5.5,22,7.7,28.4,Live-bed,Non-cohesive,0.39,6.9,15,20,6.2,Unknown,7.5,0.5
+MS,Pearl River,30,"Pearl River at westbound U.S. 98 near Columbia, MS",5,5/10/1991,10:45,Downstream,Group,Cylindrical,5.5,11,6.6,28.9,Live-bed,Non-cohesive,0.39,6.9,15,20,6.2,Unknown,4.5,0.5
+MS,Pearl River,30,"Pearl River at westbound U.S. 98 near Columbia, MS",6,2/5/1990,17:35,Downstream,Group,Cylindrical,5.8,18,4.2,25.1,Live-bed,Non-cohesive,0.39,6.9,15,20,6.2,Unknown,6.6,0.5
+MS,Pearl River,30,"Pearl River at westbound U.S. 98 near Columbia, MS",6,5/10/1991,10:45,Upstream,Group,Cylindrical,5.4,14,7.2,27.3,Live-bed,Non-cohesive,0.39,6.9,15,20,6.2,Unknown,9.9,0.5
+MT,Badger Creek,34,"Badger Creek at U.S. 89 near Browning, MT",P1,6/21/1991,14:50,Upstream,Single,Sharp,3.4,0,4.2,1.3,Live-bed,Non-cohesive,0.35,8,30,48,9.3,Moderate,1.5,0.5
+MT,Badger Creek,34,"Badger Creek at U.S. 89 near Browning, MT",P3,6/4/1991,12:40,Upstream,Single,Sharp,3.4,0,4.7,1,Live-bed,Non-cohesive,0.35,8,30,48,9.3,Moderate,3.4,0.3
+MT,Badger Creek,34,"Badger Creek at U.S. 89 near Browning, MT",P4,6/21/1991,14:50,Upstream,Single,Sharp,3.4,0,2.1,0.5,Live-bed,Non-cohesive,0.35,8,30,48,9.3,Moderate,1.2,0.3
+MT,Badger Creek,34,"Badger Creek at U.S. 89 near Browning, MT",P4,6/4/1991,12:40,Upstream,Single,Sharp,3.4,0,2.5,0.4,Live-bed,Non-cohesive,0.35,8,30,48,9.3,Moderate,1,0.3
+MT,Badger Creek,34,"Badger Creek at U.S. 89 near Browning, MT",P3,6/21/1991,14:50,Upstream,Single,Sharp,3.4,0,5.4,1.5,Live-bed,Non-cohesive,0.35,8,30,48,9.3,Moderate,3.5,0.3
+MT,Badger Creek,34,"Badger Creek at U.S. 89 near Browning, MT",P4,5/21/1991,15:30,Upstream,Single,Sharp,3.4,0,4.1,0.9,Live-bed,Non-cohesive,0.35,8,30,48,9.3,Moderate,1.6,0.3
+MT,Badger Creek,34,"Badger Creek at U.S. 89 near Browning, MT",P1,5/21/1991,15:30,Upstream,Single,Sharp,3.4,0,5.4,1.7,Live-bed,Non-cohesive,0.35,8,30,48,9.3,Moderate,1.2,0.5
+MT,Badger Creek,34,"Badger Creek at U.S. 89 near Browning, MT",P1,6/4/1991,12:40,Upstream,Single,Sharp,3.4,0,4.4,1.5,Live-bed,Non-cohesive,0.35,8,30,48,9.3,Moderate,1.7,0.5
+MT,Badger Creek,34,"Badger Creek at U.S. 89 near Browning, MT",P3,5/21/1991,15:30,Upstream,Single,Sharp,3.4,0,5.4,1.3,Live-bed,Non-cohesive,0.35,8,30,48,9.3,Moderate,3.2,0.3
+MT,Beaver Creek,87,US 2 over Beaver Creek Overflow 7 Miles West of Saco. MT,2,,,Upstream,Group,Cylindrical,2,0,,,Clear-water,Cohesive,,,,,,Insignificant,1,0.25
+MT,Beaver Creek,87,US 2 over Beaver Creek Overflow 7 Miles West of Saco. MT,1,,,,Single,Cylindrical,2,0,,,Clear-water,Cohesive,,,,,,Insignificant,,
+MT,Beaver Creek,87,US 2 over Beaver Creek Overflow 7 Miles West of Saco. MT,3,,,Upstream,Group,Cylindrical,,0,,,Clear-water,Cohesive,,,,,,Insignificant,0.5,0.25
+MT,Beaver Creek,88,US 2 over Beaver Creek Overflow 9 Miles West of Saco. MT,3,,,,Group,Cylindrical,,0,,,Clear-water,Cohesive,,,,,,Insignificant,,
+MT,Beaver Creek,88,US 2 over Beaver Creek Overflow 9 Miles West of Saco. MT,1,,,,Group,Cylindrical,2,0,,,Clear-water,Cohesive,,,,,,Insignificant,,
+MT,Beaver Creek,88,US 2 over Beaver Creek Overflow 9 Miles West of Saco. MT,2,,,,Group,Cylindrical,,0,,,Clear-water,Cohesive,,,,,,Insignificant,,
+MT,Clarks Fork Yellowstone River,31,"Clarks Fork Yellowstone River near Bridger, MT",1,6/6/1991,11:15,Upstream,Single,Sharp,4.3,5,8.4,8.6,Clear-water,Non-cohesive,17,39,90,140,2.3,Insignificant,3.7,0.3
+MT,Clarks Fork Yellowstone River,31,"Clarks Fork Yellowstone River near Bridger, MT",1,6/10/1991,12:30,Upstream,Single,Sharp,4.3,5,7,6.4,Clear-water,Non-cohesive,17,39,90,140,2.3,Insignificant,2.7,0.3
+MT,Clarks Fork Yellowstone River,31,"Clarks Fork Yellowstone River near Bridger, MT",1,6/18/1991,12:45,Upstream,Single,Sharp,4.3,5,5,4.6,Clear-water,Non-cohesive,17,39,90,140,2.3,Insignificant,3.2,0.3
+MT,Clarks Fork Yellowstone River,31,"Clarks Fork Yellowstone River near Bridger, MT",2,6/10/1991,12:30,Upstream,Single,Sharp,4.3,5,6,5.6,Clear-water,Non-cohesive,17,39,90,140,2.3,Insignificant,3,0.3
+MT,Clarks Fork Yellowstone River,31,"Clarks Fork Yellowstone River near Bridger, MT",2,6/13/1991,12:30,Upstream,Single,Sharp,4.3,5,7,6.3,Clear-water,Non-cohesive,17,39,90,140,2.3,Insignificant,2.8,0.3
+MT,Clarks Fork Yellowstone River,31,"Clarks Fork Yellowstone River near Bridger, MT",2,6/18/1991,12:45,Upstream,Single,Sharp,4.3,5,3.6,4.1,Clear-water,Non-cohesive,17,39,90,140,2.3,Insignificant,3,0.3
+MT,Clarks Fork Yellowstone River,31,"Clarks Fork Yellowstone River near Bridger, MT",1,6/13/1991,12:30,Upstream,Single,Sharp,4.3,5,7,7.5,Clear-water,Non-cohesive,17,39,90,140,2.3,Insignificant,2.7,0.3
+MT,Clarks Fork Yellowstone River,31,"Clarks Fork Yellowstone River near Bridger, MT",2,6/6/1991,11:15,Upstream,Single,Sharp,4.3,5,6.5,7.1,Clear-water,Non-cohesive,17,39,90,140,2.3,Insignificant,2.6,0.3
+MT,Gallatin River,32,"Gallatin River at U.S. 191 near Gallatin Gateway, MT",2,6/6/1991,13:35,Upstream,Single,Sharp,3.4,3,10.6,5.5,Clear-water,Non-cohesive,38,95,230,330,2.5,Insignificant,5.5,0.5
+MT,Gallatin River,32,"Gallatin River at U.S. 191 near Gallatin Gateway, MT",2,6/23/1993,0:00,Upstream,Single,Sharp,3.4,3,7,3.8,Clear-water,Non-cohesive,38,95,230,330,2.5,Insignificant,4.5,0.5
+MT,Gallatin River,32,"Gallatin River at U.S. 191 near Gallatin Gateway, MT",1,6/6/1991,13:35,Upstream,Single,Sharp,3.4,3,8.4,4.8,Clear-water,Non-cohesive,38,95,230,330,2.5,Insignificant,0.8,0.3
+MT,Gallatin River,32,"Gallatin River at U.S. 191 near Gallatin Gateway, MT",1,6/23/1993,0:00,Upstream,Single,Sharp,3.4,3,6.2,3.4,Clear-water,Non-cohesive,38,95,230,330,2.5,Insignificant,1.9,0.3
+MT,Gallatin River,32,"Gallatin River at U.S. 191 near Gallatin Gateway, MT",2,6/18/1992,14:45,Upstream,Single,Sharp,3.4,3,7,3.7,Clear-water,Non-cohesive,38,95,230,330,2.5,Insignificant,4.6,0.5
+MT,Gallatin River,32,"Gallatin River at U.S. 191 near Gallatin Gateway, MT",1,6/18/1992,14:45,Upstream,Single,Sharp,3.4,3,5.1,3.3,Clear-water,Non-cohesive,38,95,230,330,2.5,Insignificant,1.2,0.3
+MT,Gallatin River,89,"I-90 over Gallatin River near Manhattan, MT",2,6/18/1997,,Upstream,Single,Sharp,,5,6,5,Unknown,Non-cohesive,,,,,,Substantial,9,1.5
+MT,Gallatin River,89,"I-90 over Gallatin River near Manhattan, MT",3,6/18/1997,,Upstream,Single,Sharp,,5,7.3,3,Unknown,Non-cohesive,,,,,,Moderate,3.5,1
+MT,Gallatin River,89,"I-90 over Gallatin River near Manhattan, MT",1,5/22/1997,,Upstream,Single,Sharp,,5,6.8,3.5,Unknown,Non-cohesive,,,,,,Substantial,8,1.5
+MT,Gallatin River,89,"I-90 over Gallatin River near Manhattan, MT",1,6/8/1995,,Upstream,Single,Sharp,,5,,,Unknown,Non-cohesive,,,,,,Substantial,9,1.5
+MT,Yellowstone River,33,"Yellowstone River at U.S. 89 near Emigrant, MT",3,6/30/1993,10:30,Upstream,Single,Sharp,3.1,0,3.5,6,Clear-water,Non-cohesive,28,73,150,190,2.3,Unknown,0.4,0.3
+MT,Yellowstone River,33,"Yellowstone River at U.S. 89 near Emigrant, MT",3,5/27/1993,10:00,Upstream,Single,Sharp,3.1,0,3.6,6.8,Clear-water,Non-cohesive,28,73,150,190,2.3,Unknown,0.4,0.3
+MT,Yellowstone River,33,"Yellowstone River at U.S. 89 near Emigrant, MT",3,5/21/1993,16:10,Upstream,Single,Sharp,3.1,0,3.3,7.4,Clear-water,Non-cohesive,28,73,150,190,2.3,Unknown,0.3,0.3
+MT,Yellowstone River,33,"Yellowstone River at U.S. 89 near Emigrant, MT",2,5/27/1993,10:00,Upstream,Single,Sharp,3.1,0,8,7.8,Clear-water,Non-cohesive,28,73,150,190,2.3,Unknown,1.8,0.3
+MT,Yellowstone River,33,"Yellowstone River at U.S. 89 near Emigrant, MT",2,5/21/1993,16:10,Upstream,Single,Sharp,3.2,0,7.6,8.2,Clear-water,Non-cohesive,28,73,150,190,2.3,Unknown,1.6,0.3
+MT,Yellowstone River,33,"Yellowstone River at U.S. 89 near Emigrant, MT",1,6/30/1993,10:30,Upstream,Single,Sharp,3.1,0,4.9,6.6,Clear-water,NON-COH,28,73,150,190,2.3,Unknown,1.9,0.5
+MT,Yellowstone River,33,"Yellowstone River at U.S. 89 near Emigrant, MT",1,5/27/1993,10:00,Upstream,Single,Sharp,3.1,0,8.2,8.3,Clear-water,Non-cohesive,28,73,150,190,2.3,Unknown,2.3,0.5
+MT,Yellowstone River,33,"Yellowstone River at U.S. 89 near Emigrant, MT",2,6/30/1993,10:30,Upstream,Single,Sharp,3.2,0,4.8,6.2,Clear-water,Non-cohesive,28,73,150,190,2.3,Unknown,1.1,0.3
+MT,Yellowstone River,33,"Yellowstone River at U.S. 89 near Emigrant, MT",1,5/21/1993,16:10,Upstream,Single,Sharp,3.1,0,8,8.7,Clear-water,Non-cohesive,28,73,150,190,2.3,Unknown,2.5,0.5
+NY,Chemung River,36,"Chemung River at S.R. 427 at Chemung, NY",4,10/23/1970,0:00,Upstream,Single,Round,5,0,3.3,7.8,Unknown,Non-cohesive,11,27,58,89,2.3,Unknown,0,0.5
+NY,Chemung River,36,"Chemung River at S.R. 427 at Chemung, NY",4,6/24/1972,0:00,Upstream,Single,Round,5,0,11.2,31.9,Unknown,Non-cohesive,11,27,58,89,2.3,Unknown,4.3,1
+NY,Chemung River,36,"Chemung River at S.R. 427 at Chemung, NY",6,9/28/1975,0:00,Upstream,Single,Round,5,0,7.4,12.4,Unknown,Non-cohesive,11,27,58,89,2.3,Unknown,0.9,0.5
+NY,Chemung River,36,"Chemung River at S.R. 427 at Chemung, NY",6,3/25/1980,0:00,Upstream,Single,Round,5,0,5.4,8.5,Clear-water,Non-cohesive,11,27,58,89,2.3,Unknown,0,0.5
+NY,Chemung River,36,"Chemung River at S.R. 427 at Chemung, NY",5,10/23/1970,0:00,Upstream,Single,Round,5,0,2.5,6.7,Unknown,Non-cohesive,11,27,58,89,2.3,Unknown,0,0.5
+NY,Chemung River,36,"Chemung River at S.R. 427 at Chemung, NY",5,6/24/1972,0:00,Upstream,Single,Round,5,0,10.5,26.5,Unknown,Non-cohesive,11,27,58,89,2.3,Unknown,3.9,0.5
+NY,Chemung River,36,"Chemung River at S.R. 427 at Chemung, NY",5,3/25/1980,0:00,Upstream,Single,Round,5,0,6.5,11.8,Clear-water,Non-cohesive,11,27,58,89,2.3,Unknown,0,0.5
+NY,Chemung River,36,"Chemung River at S.R. 427 at Chemung, NY",1,10/23/1970,0:00,Upstream,Single,Round,5,0,6.5,12.5,Unknown,Non-cohesive,11,27,58,89,2.3,Unknown,1.7,0.5
+NY,Chemung River,36,"Chemung River at S.R. 427 at Chemung, NY",2,10/23/1970,0:00,Upstream,Single,Round,5,0,6,12,Unknown,Non-cohesive,11,27,58,89,2.3,Unknown,0.9,0.5
+NY,Chemung River,36,"Chemung River at S.R. 427 at Chemung, NY",5,9/28/1975,0:00,Upstream,Single,Round,5,0,8.9,17.8,Unknown,Non-cohesive,11,27,58,89,2.3,Unknown,1.9,0.5
+NY,Chemung River,36,"Chemung River at S.R. 427 at Chemung, NY",4,9/28/1975,0:00,Upstream,Single,Round,5,0,9.5,18.7,Unknown,Non-cohesive,11,27,58,89,2.3,Unknown,1.9,0.5
+NY,Chemung River,36,"Chemung River at S.R. 427 at Chemung, NY",2,6/24/1972,0:00,Upstream,Single,Round,5,0,12.9,31.1,Unknown,Non-cohesive,11,27,58,89,2.3,Unknown,4.1,0.5
+NY,Chemung River,36,"Chemung River at S.R. 427 at Chemung, NY",2,3/25/1980,0:00,Upstream,Single,Round,5,0,8,16.2,Clear-water,Non-cohesive,11,27,58,89,2.3,Unknown,3,0.5
+NY,Chemung River,36,"Chemung River at S.R. 427 at Chemung, NY",3,3/25/1980,0:00,Upstream,Single,Round,5,0,7.6,12.6,Clear-water,Non-cohesive,11,27,58,89,2.3,Unknown,3.3,0.5
+NY,Chemung River,36,"Chemung River at S.R. 427 at Chemung, NY",3,9/28/1975,0:00,Upstream,Single,Round,5,0,10.4,19,Unknown,Non-cohesive,11,27,58,89,2.3,Unknown,2.3,0.5
+NY,Chemung River,36,"Chemung River at S.R. 427 at Chemung, NY",3,6/24/1972,0:00,Upstream,Single,Round,5,0,12.3,31.4,Unknown,Non-cohesive,11,27,58,89,2.3,Unknown,3.9,0.5
+NY,Chemung River,36,"Chemung River at S.R. 427 at Chemung, NY",3,10/23/1970,0:00,Upstream,Single,Round,5,0,5,11.2,Unknown,Non-cohesive,11,27,58,89,2.3,Unknown,0,0.5
+NY,Chemung River,36,"Chemung River at S.R. 427 at Chemung, NY",4,3/25/1980,0:00,Upstream,Single,Round,5,0,7,12.3,Clear-water,Non-cohesive,11,27,58,89,2.3,Unknown,0,0.5
+NY,Chemung River,36,"Chemung River at S.R. 427 at Chemung, NY",1,6/24/1972,0:00,Upstream,Single,Round,5,0,13.4,27.3,Unknown,Non-cohesive,11,27,58,89,2.3,Unknown,5.1,0.5
+NY,Chemung River,36,"Chemung River at S.R. 427 at Chemung, NY",6,10/23/1970,0:00,Upstream,Single,Round,5,0,1.6,5.7,Unknown,Non-cohesive,11,27,58,89,2.3,Unknown,0,0.5
+NY,Chemung River,36,"Chemung River at S.R. 427 at Chemung, NY",6,6/24/1972,0:00,Upstream,Single,Round,5,0,8.7,19,Unknown,Non-cohesive,11,27,58,89,2.3,Unknown,2,0.5
+NY,Delaware River,40,"Delaware River at Route 6 at Port Jervis, NY",1,9/16/1992,0:00,Upstream,Single,Round,10,0,14.7,25.1,Clear-water,Non-cohesive,14,45,103,142,2.7,Unknown,3.1,0.5
+NY,Genesee River,39,"Genesee River at Bailey Road at Portageville, NY",3,10/21/1998,0:00,Upstream,Single,Sharp,6,0,9.5,21,Clear-water,Non-cohesive,18,27,42,55,1.5,Unknown,3.2,0.5
+NY,Otselic River,35,"Otselic River at S.R. 23 at Cincinnatus, NY",1,10/24/1990,0:00,Upstream,Single,Round,3,30,6.8,10.3,Clear-water,Non-cohesive,18,32,55,76,1.75,Insignificant,5.2,0.2
+NY,Schoharie Creek,37,"Schoharie Creek at S.R. 30 at Middleburg, NY",2,11/17/1989,0:00,Upstream,Single,Round,5.5,0,11,16.7,Clear-water,Non-cohesive,15,33,60,95,2,Insignificant,3.5,0.2
+NY,Schoharie Creek,37,"Schoharie Creek at S.R. 30 at Middleburg, NY",1,11/17/1989,0:00,Upstream,Single,Round,5.5,0,12,17.9,Clear-water,Non-cohesive,15,33,60,95,2,Insignificant,1.9,0.2
+NY,Susquehanna River,38,"Susquehanna River at C.R. 314 at Conklin, NY",3,8/27/1991,0:00,Upstream,Single,Round,5,0,9,18.3,Clear-water,Non-cohesive,14,28,53,65,1.9,Unknown,0.9,0.2
+NY,Susquehanna River,38,"Susquehanna River at C.R. 314 at Conklin, NY",2,8/27/1991,0:00,Upstream,Single,Round,5,0,8.3,18.1,Clear-water,Non-cohesive,14,28,53,65,1.9,Unknown,1.1,0.2
+NY,Susquehanna River,38,"Susquehanna River at C.R. 314 at Conklin, NY",4,8/27/1991,0:00,Upstream,Single,Round,5,0,7.3,16.8,Clear-water,Non-cohesive,14,28,53,65,1.9,Moderate,3.2,0.2
+OH,Agulaize River,79,Auglaize River at S.R. 198 near Wapakoneta,1,7/13/1992,14:30,Upstream,Single,Round,2.5,40.1,1.7,10.6,Clear-water,Non-cohesive,0.0058,0.12,2.4,5.8,20.34,Insignificant,1.8,0.5
+OH,Agulaize River,79,Auglaize River at S.R. 198 near Wapakoneta,1,7/17/1992,16:10,Upstream,Single,Round,2.5,49.5,0.9,7.1,Clear-water,Non-cohesive,0.0058,0.12,2.4,5.8,20.34,Insignificant,0.5,0.5
+OH,Clear Creek,59,"Clear Creek at U.S. 33 near Rockbridge, OH",1,1/28/1994,10:00,Upstream,Single,Round,4,0,3.7,10.6,Clear-water,Non-cohesive,0.033,0.15,0.28,0.35,2.91,Unknown,2.8,0.5
+OH,Grand River,60,"Grand River at S.R. 84 near Painesville, OH",3,12/31/1992,11:05,Upstream,Single,Round,5.4,85,2.6,5.9,Live-bed,Non-cohesive,0.09,9,33.5,71,19.3,Insignificant,1.1,0.5
+OH,Grand River,60,"Grand River at S.R. 84 near Painesville, OH",1,12/31/1992,11:05,Upstream,Single,Round,5.4,0,4.8,6.9,Live-bed,Non-cohesive,0.39,12,31,44,8.92,Insignificant,1.4,0.5
+OH,Great Miami River,41,"Great Miami River at S.R. 128 at Hamilton, OH",2,1/29/1994,9:10,Upstream,Single,Round,3.5,0,5.8,13.5,Clear-water,Non-cohesive,0.25,1.3,14,18,7.5,Insignificant,0.9,0.5
+OH,Great Miami River,41,"Great Miami River at S.R. 128 at Hamilton, OH",2,5/16/1990,10:00,Upstream,Single,Round,3.5,0,4.5,12.7,Live-bed,Non-cohesive,0.75,1.82,5,8.8,2.6,Insignificant,1.6,0.5
+OH,Great Miami River,41,"Great Miami River at S.R. 128 at Hamilton, OH",2,7/18/1992,12:45,Upstream,Single,Round,3.5,8.1,4.8,12.1,Live-bed,Non-cohesive,0.75,1.82,5,8.8,2.6,Insignificant,1.3,0.5
+OH,Great Miami River,41,"Great Miami River at S.R. 128 at Hamilton, OH",3,5/16/1990,10:00,Upstream,Single,Round,3.5,0,4.5,13.4,Live-bed,Non-cohesive,0.14,0.78,1.6,1.8,3.4,Insignificant,1,0.5
+OH,Great Miami River,61,"Great Miami River at S.R. 41 at Troy, OH",2,11/13/1992,12:10,Upstream,Single,Sharp,3,66.4,0.8,6.1,Clear-water,Non-cohesive,0.048,0.25,9.5,25,14.1,Insignificant,1.5,0.5
+OH,Great Miami River,61,"Great Miami River at S.R. 41 at Troy, OH",1,11/13/1992,12:10,Upstream,Single,Sharp,3,60,0.6,6,Clear-water,Non-cohesive,,0.058,0.184,5.4,,Insignificant,0.6,0.5
+OH,Great Miami River,61,"Great Miami River at S.R. 41 at Troy, OH",7,1/29/1994,10:55,Upstream,Single,Sharp,3,60,2.4,7.4,Clear-water,Non-cohesive,4.2,24,45,62,3.27,Unknown,3.5,0.5
+OH,Great Miami River,61,"Great Miami River at S.R. 41 at Troy, OH",7,11/13/1992,12:10,Upstream,Single,Sharp,3,60,2.2,8.1,Clear-water,Non-cohesive,7.8,56,80,90,3.2,Insignificant,3.6,0.5
+OH,Great Miami River,61,"Great Miami River at S.R. 41 at Troy, OH",6,1/29/1994,10:55,Upstream,Single,Sharp,3,60,2.4,7.5,Clear-water,Non-cohesive,9,34,55,65,2.47,Unknown,3.3,0.5
+OH,Great Miami River,61,"Great Miami River at S.R. 41 at Troy, OH",6,11/13/1992,12:10,Upstream,Single,Sharp,3,57.3,2.8,8.5,Clear-water,Non-cohesive,9.5,31,56,79,2.43,Insignificant,3.4,0.5
+OH,Great Miami River,61,"Great Miami River at S.R. 41 at Troy, OH",3,11/13/1992,12:10,Upstream,Single,Sharp,3,63.3,1.7,7.8,Clear-water,Non-cohesive,1.65,22.5,39.5,47,4.89,Insignificant,2.7,0.5
+OH,Great Miami River,61,"Great Miami River at S.R. 41 at Troy, OH",7,7/17/1992,11:40,Upstream,Single,Sharp,3,60,2.6,9.8,Clear-water,Non-cohesive,0.98,4.1,58,70,7.69,Insignificant,3,0.5
+OH,Great Miami River,61,"Great Miami River at S.R. 41 at Troy, OH",1,7/17/1992,11:40,Upstream,Single,Sharp,3,60,0.5,7.1,Clear-water,Non-cohesive,,0.0115,0.083,0.33,,Insignificant,0.7,0.5
+OH,Great Miami River,61,"Great Miami River at S.R. 41 at Troy, OH",6,7/17/1992,11:40,Upstream,Single,Sharp,3,60,2.7,9.4,Clear-water,Non-cohesive,1,35.5,62,70,7.87,Insignificant,2.5,0.5
+OH,Great Miami River,61,"Great Miami River at S.R. 41 at Troy, OH",1,1/29/1994,10:55,Upstream,Single,Sharp,3,66,0.7,5.1,Clear-water,Non-cohesive,0.57,8.2,32,40,7.5,Unknown,1.8,0.5
+OH,Great Miami River,61,"Great Miami River at S.R. 41 at Troy, OH",3,7/17/1992,11:40,Upstream,Single,Sharp,3,63.3,1.8,9.3,Clear-water,Non-cohesive,2.2,36.3,64,72,5.39,Insignificant,3.2,0.5
+OH,Great Miami River,61,"Great Miami River at S.R. 41 at Troy, OH",5,1/29/1994,10:55,Upstream,Single,Sharp,3,66,2,7.2,Clear-water,Non-cohesive,4,32,53,63,3.64,Unknown,2.5,0.5
+OH,Great Miami River,61,"Great Miami River at S.R. 41 at Troy, OH",2,7/17/1992,11:40,Upstream,Single,Sharp,3,66.4,0.8,7.6,Clear-water,Non-cohesive,,0.01,0.7,0.96,,Insignificant,1.3,0.5
+OH,Great Miami River,61,"Great Miami River at S.R. 41 at Troy, OH",5,7/17/1992,11:40,Upstream,Single,Sharp,3,64.9,2.7,9.5,Clear-water,Non-cohesive,1.6,4.1,10.3,38,6.44,Insignificant,2,0.5
+OH,Great Miami River,61,"Great Miami River at S.R. 41 at Troy, OH",5,11/13/1992,12:10,Upstream,Single,Sharp,3,64.5,2,8.6,Clear-water,Non-cohesive,2.7,29,58,70,4.63,Insignificant,2.9,0.5
+OH,Great Miami River,61,"Great Miami River at S.R. 41 at Troy, OH",4,1/29/1994,10:55,Upstream,Single,Sharp,3,60,2.2,7.8,Clear-water,Non-cohesive,6.5,27,43,48,2.57,Unknown,5,0.5
+OH,Great Miami River,61,"Great Miami River at S.R. 41 at Troy, OH",4,11/13/1992,12:10,Upstream,Single,Sharp,3,63.9,1.9,8.7,Clear-water,Non-cohesive,1.4,14,36,41,5.07,Insignificant,3.9,0.5
+OH,Great Miami River,61,"Great Miami River at S.R. 41 at Troy, OH",4,7/17/1992,11:40,Upstream,Single,Sharp,3,61.6,2.6,9.7,Clear-water,Non-cohesive,5,12.7,60,69,3.46,Insignificant,2.2,0.5
+OH,Great Miami River,61,"Great Miami River at S.R. 41 at Troy, OH",3,1/29/1994,10:55,Upstream,Single,Sharp,3,63,1.9,8,Clear-water,Non-cohesive,4,21,65,71,4.03,Unknown,3.3,0.5
+OH,Great Miami River,61,"Great Miami River at S.R. 41 at Troy, OH",2,1/29/1994,10:55,Upstream,Single,Sharp,3,66,1,5.7,Clear-water,Non-cohesive,3.5,18,33,43,3.1,Unknown,1.6,0.5
+OH,Hocking River,42,"Hocking River at S.R. 278 at Nelsonville, OH",2,12/31/1990,13:00,Upstream,Single,Round,2.5,16,2.2,13.9,Live-bed,Non-cohesive,0.032,0.17,0.25,0.45,2.8,Insignificant,1.1,0.5
+OH,Hocking River,42,"Hocking River at S.R. 278 at Nelsonville, OH",1,7/17/1992,12:40,Upstream,Single,Round,2.5,20,3.8,11.5,Live-bed,Non-cohesive,0.42,11.5,55,80,11.4,Insignificant,2.2,0.5
+OH,Hocking River,42,"Hocking River at S.R. 278 at Nelsonville, OH",2,7/17/1992,12:40,Upstream,Single,Round,2.5,8,3.8,6.6,Live-bed,Non-cohesive,0.048,0.15,0.3,0.38,6.25,Insignificant,0.9,0.5
+OH,Hocking River,42,"Hocking River at S.R. 278 at Nelsonville, OH",1,12/31/1990,13:00,Upstream,Single,Round,2.5,22,5,17.5,Live-bed,Non-cohesive,0.86,2.85,4.7,6,2.3,Insignificant,2.5,0.5
+OH,Hocking River,42,"Hocking River at S.R. 278 at Nelsonville, OH",1,1/29/1994,13:50,Upstream,Single,Round,2.5,14,5.8,16.9,Live-bed,Non-cohesive,0.68,2.5,8,14,3.43,Unknown,2.3,0.5
+OH,Hocking River,42,"Hocking River at S.R. 278 at Nelsonville, OH",1,7/14/1992,10:50,Upstream,Single,Round,2.5,31.8,3,11.8,Live-bed,Non-cohesive,0.42,11.5,55,80,11.4,Insignificant,2.7,0.5
+OH,Hocking River,42,"Hocking River at S.R. 278 at Nelsonville, OH",2,1/29/1994,13:50,Upstream,Single,Round,2.5,0,2.6,12,Live-bed,Non-cohesive,0.066,0.16,0.26,0.38,1.98,Unknown,0.5,0.5
+OH,Hocking River,42,"Hocking River at S.R. 278 at Nelsonville, OH",2,7/14/1992,10:50,Upstream,Single,Round,2.5,12,2,7.6,Clear-water,Non-cohesive,0.048,0.15,0.3,0.38,6.25,Insignificant,1.1,0.5
+OH,Honey Creek,43,"Honey Creek at S.R. 67 at Melmore, OH",2,7/17/1992,10:40,Upstream,Single,Round,3.1,0,3.8,6.9,Clear-water,Non-cohesive,12,54,69,85,2.4,Insignificant,1.5,0.5
+OH,Honey Creek,43,"Honey Creek at S.R. 67 at Melmore, OH",2,7/15/1992,14:25,Upstream,Single,Round,3.1,11.5,3.8,6.9,Clear-water,Non-cohesive,12,54,69,85,2.4,Insignificant,1.3,0.5
+OH,Honey Creek,43,"Honey Creek at S.R. 67 at Melmore, OH",2,2/2/1990,15:30,Upstream,Single,Round,3.2,0,3.9,6.4,Clear-water,Non-cohesive,9.3,18,34,44,1.9,Insignificant,1.8,0.5
+OH,Killbuck Creek,48,"Killbuck Creek at C.R. 621 at Killbuck, OH",1,7/23/1990,13:05,Upstream,Single,Round,2.5,0,3,9.1,Live-bed,Non-cohesive,0.077,0.185,0.54,1.1,2.6,Insignificant,1.4,0.5
+OH,Killbuck Creek,48,"Killbuck Creek at C.R. 621 at Killbuck, OH",1,5/17/1990,12:15,Upstream,Single,Round,2.5,0,2.4,7.3,Live-bed,Non-cohesive,0.077,0.185,0.54,1.1,2.6,Insignificant,1.3,0.5
+OH,Little Miami River,44,"Little Miami River at S.R.350 at Fort Ancient,OH",2,12/19/1990,10:10,Upstream,Single,Round,2.5,0,3.7,5.6,Clear-water,Non-cohesive,12,60,71,75,2.4,Insignificant,0.7,0.5
+OH,Little Miami River,44,"Little Miami River at S.R.350 at Fort Ancient,OH",1,12/19/1990,10:10,Upstream,Single,Round,2.5,0,4.8,7.6,Clear-water,Non-cohesive,14.7,35,38,39,1.61,Insignificant,2.7,1
+OH,Little Miami River,44,"Little Miami River at S.R.350 at Fort Ancient,OH",1,5/16/1990,14:30,Upstream,Single,Round,2.5,0,4.6,8.4,Clear-water,Non-cohesive,14.7,35,38,39,1.61,Insignificant,0.6,0.5
+OH,Mad River,62,"Mad River at U.S. 36 near Urbana, OH",1,1/28/1994,11:25,Upstream,Single,Round,5.2,0,4.5,6.5,Clear-water,Non-cohesive,3.8,25,56,69,3.84,Unknown,3.4,0.5
+OH,Mad River,62,"Mad River at U.S. 36 near Urbana, OH",1,1/5/1993,12:10,Upstream,Single,Round,5.4,0,3.2,3,Clear-water,Non-cohesive,11.5,19,32,42,1.67,Substantial,4,0.5
+OH,Mad River,62,"Mad River at U.S. 36 near Urbana, OH",1,7/2/1993,10:30,Upstream,Single,Round,5.3,0,4,5.3,Clear-water,Non-cohesive,3.8,25,56,69,3.84,Substantial,4.7,0.5
+OH,Massies Creek,63,"Massies Creek at U.S. 68 at Oldtown, OH",1,1/28/1994,10:50,Upstream,Group,Square,1,14.1,1.1,5.9,Clear-water,Non-cohesive,0.12,0.46,1.2,1.8,3.16,Unknown,0.8,0.5
+OH,Maumee River,64,"Maumee River at U.S. 127 near Sherwood, OH",3,1/6/1993,13:10,Upstream,Single,Sharp,3.8,9.9,2.8,19.1,Clear-water,Non-cohesive,0.18,2.85,8.8,14,6.99,Moderate,0.6,0.5
+OH,Maumee River,64,"Maumee River at U.S. 127 near Sherwood, OH",3,7/18/1992,10:15,Upstream,Single,Sharp,3.8,31.8,2.6,11.8,Clear-water,Non-cohesive,0.34,1.3,3,6.6,2.97,Substantial,1.4,0.5
+OH,Maumee River,64,"Maumee River at U.S. 127 near Sherwood, OH",3,7/14/1992,10:45,Upstream,Single,Sharp,3.8,35.9,2.9,4.9,Clear-water,Non-cohesive,0.34,1.3,3,6.6,2.97,Insignificant,1.1,0.5
+OH,Maumee River,64,"Maumee River at U.S. 127 near Sherwood, OH",2,1/6/1993,13:10,Upstream,Single,Sharp,3.9,15.2,4.8,19.8,Clear-water,Non-cohesive,4.1,12,44,53,2.57,Insignificant,0.7,0.5
+OH,Maumee River,64,"Maumee River at U.S. 127 near Sherwood, OH",2,7/18/1992,10:15,Upstream,Single,Sharp,3.8,36.9,3.7,12.5,Clear-water,Non-cohesive,4.1,17.3,44,53,3.28,Insignificant,1.5,0.5
+OH,Maumee River,64,"Maumee River at U.S. 127 near Sherwood, OH",2,7/14/1992,10:45,Upstream,Single,Sharp,3.9,31.8,2.7,5.7,Clear-water,Non-cohesive,4.1,17.3,44,53,3.28,Insignificant,1.3,0.5
+OH,Ottawa River,45,"Ottawa River at Township Road 122 at Lima, OH",1,12/30/1990,14:30,Upstream,Single,Round,2.5,0,4.2,10.4,Clear-water,Non-cohesive,0.9,4,26,45,5.7,Unknown,2.2,0.5
+OH,Ottawa River,45,"Ottawa River at Township Road 122 at Lima, OH",1,8/22/1990,10:40,Upstream,Single,Round,2.5,0,2.5,5.4,Clear-water,Non-cohesive,0.9,4,26,45,5.7,Unknown,2.5,0.5
+OH,Ottawa River,45,"Ottawa River at Township Road 122 at Lima, OH",1,7/17/1992,14:15,Upstream,Single,Round,2.5,0,4,7.4,Clear-water,Non-cohesive,0.66,6.8,30.5,44,6.8,Moderate,1.8,0.5
+OH,Ottawa River,45,"Ottawa River at Township Road 122 at Lima, OH",2,8/22/1990,10:40,Upstream,Single,Round,2.5,0,0.8,4.9,Clear-water,Non-cohesive,0.079,0.245,5,7.9,8,Insignificant,0.5,0.5
+OH,Ottawa River,45,"Ottawa River at Township Road 122 at Lima, OH",2,12/30/1990,14:30,Upstream,Single,Round,2.5,0,2.2,10.2,Clear-water,Non-cohesive,0.079,0.245,5,7.9,8,Insignificant,0.5,0.5
+OH,Salt Creek,65,"Salt Creek at U.S. 50 near Londonderry, OH",2,1/28/1994,10:50,Upstream,Single,Round,4.4,18,5.6,19.7,Live-bed,Non-cohesive,0.46,2.2,8,15,4.17,Unknown,2.9,0.5
+OH,Salt Creek,65,"Salt Creek at U.S. 50 near Londonderry, OH",1,1/28/1994,10:50,Upstream,Single,Round,4.4,18,4.9,14.7,Live-bed,Non-cohesive,0.1,0.3,0.75,1.4,2.74,Insignificant,2,0.5
+OH,Scioto River,46,"Scioto River at S.R. 4 near Prospect, OH",1,12/31/1990,11:55,Upstream,Single,Sharp,3.75,8,2.5,13.9,Live-bed,Non-cohesive,0.03,0.165,0.36,0.7,3.5,Insignificant,0.5,0.5
+OH,Scioto River,46,"Scioto River at S.R. 4 near Prospect, OH",1,5/14/1990,16:05,Upstream,Single,Sharp,3.75,8,1.2,6,Clear-water,Non-cohesive,0.03,0.165,0.36,0.7,3.5,Moderate,0.7,0.5
+OH,Scioto River,46,"Scioto River at S.R. 4 near Prospect, OH",1,5/18/1990,10:50,Upstream,Single,Sharp,3.75,8,1.6,8.3,Clear-water,Non-cohesive,0.03,0.165,0.36,0.7,3.5,Insignificant,0.4,0.5
+OH,Scioto River,66,"Scioto River at S.R. 159 at Chillicothe, OH",28,1/29/1994,11:50,Upstream,Single,Round,4.5,0,2.9,12.3,Clear-water,Non-cohesive,0.7,6,18,22,5.07,Insignificant,1.4,0.5
+OH,Scioto River,66,"Scioto River at S.R. 159 at Chillicothe, OH",29,1/29/1994,11:50,Upstream,Single,Round,4.5,8,5,19.4,Live-bed,Non-cohesive,0.18,0.59,1.3,1.7,2.69,Unknown,4.2,0.5
+OH,Scioto River,66,"Scioto River at S.R. 159 at Chillicothe, OH",30,1/29/1994,11:50,Upstream,Single,Round,4.5,10,4.2,18.7,Live-bed,Non-cohesive,0.041,2.41,16,19,19.8,Unknown,6.1,0.5
+OH,Sugar Creek,67,"Sugar Creek at U.S. 250 at Strasburg, OH",1,12/6/1993,8:20,Upstream,Single,Round,3,0,4.3,6,Clear-water,Non-cohesive,6.1,19,45,63,2.72,Unknown,0.7,0.5
+OH,Sugar Creek,67,"Sugar Creek at U.S. 250 at Strasburg, OH",1,1/14/1993,11:15,Upstream,Single,Round,3,0,4.2,5.5,Clear-water,Non-cohesive,0.74,21.5,66,82,9.44,Insignificant,0.8,0.5
+OH,Tascarwas River,69,"Tuscarawas River at C.R. 14 near Port Washington, OH",2,12/6/1993,10:00,Upstream,Single,Round,3.3,0,4.8,7.8,Live-bed,Non-cohesive,1.3,10,27,40,4.56,Insignificant,2.4,0.5
+OH,Tascarwas River,69,"Tuscarawas River at C.R. 14 near Port Washington, OH",2,1/15/1993,10:45,Upstream,Single,Round,3.3,0,4.1,7.7,Clear-water,Non-cohesive,0.46,1.15,3.1,8.5,2.6,Insignificant,1.7,0.5
+OH,Tascarwas River,69,"Tuscarawas River at C.R. 14 near Port Washington, OH",3,12/6/1993,10:00,Upstream,Single,Round,3.3,0,4.6,10.1,Live-bed,Non-cohesive,3.7,17,29,38,2.8,Unknown,1.7,0.5
+OH,Tascarwas River,69,"Tuscarawas River at C.R. 14 near Port Washington, OH",3,1/15/1993,10:45,Upstream,Single,Round,3.3,0,4.3,9.8,Clear-water,Unknown,4.4,11.5,22,33,2.24,Moderate,1.2,0.5
+OH,Todd Fork,47,"Todd Fork at S.R. 22 at Morrow, OH",1,12/18/1990,14:30,Upstream,Single,Round,3.7,0,5.9,10.1,Live-bed,Non-cohesive,0.67,5,16,22,4.9,Insignificant,1.6,0.5
+OH,Todd Fork,47,"Todd Fork at S.R. 22 at Morrow, OH",2,12/18/1990,14:30,Upstream,Single,Round,4.5,0,6.5,11.1,Live-bed,Non-cohesive,4.55,17,29,40,2.5,Insignificant,3.2,0.5
+OH,Todd Fork,47,"Todd Fork at S.R. 22 at Morrow, OH",1,5/17/1990,9:05,Upstream,Single,Round,3.7,0,7,9.4,Live-bed,Non-cohesive,0.67,5,16,22,4.9,Insignificant,2.4,0.5
+OH,Todd Fork,47,"Todd Fork at S.R. 22 at Morrow, OH",1,5/16/1990,11:45,Upstream,Single,Round,3.7,0,5.2,5.1,Live-bed,Non-cohesive,0.67,5,16,22,4.9,Insignificant,1.3,0.5
+OH,Todd Fork,47,"Todd Fork at S.R. 22 at Morrow, OH",2,1/28/1994,12:50,Upstream,Single,Round,4.4,0,5.7,8.8,Clear-water,Unknown,37,51,63,70,1.3,Insignificant,3.3,0.5
+OH,Todd Fork,47,"Todd Fork at S.R. 22 at Morrow, OH",2,5/17/1990,9:05,Upstream,Single,Round,4.4,0,7,10.5,Live-bed,Non-cohesive,4.55,17,29,40,2.5,Insignificant,3,0.5
+OH,Todd Fork,47,"Todd Fork at S.R. 22 at Morrow, OH",2,5/16/1990,11:45,Upstream,Single,Round,4.3,0,5.5,6.7,Live-bed,Non-cohesive,4.55,17,29,40,2.5,Insignificant,2.4,0.5
+OH,Todd Fork,47,"Todd Fork at S.R. 22 at Morrow, OH",1,1/28/1994,12:50,Upstream,Single,Round,3.7,0,5.9,8.2,Clear-water,Non-cohesive,13,30,40,46,1.75,Insignificant,1.9,0.5
+OH,Walnut Creek,71,"Walnut Creek at C.R. 17 near Ashville, OH",1,7/17/1992,15:00,Upstream,Single,Round,2,0,3.8,10.1,Live-bed,Non-cohesive,1.2,6.8,16,23,3.65,Moderate,0.9,0.5
+OH,Walnut Creek,71,"Walnut Creek at C.R. 17 near Ashville, OH",1,7/13/1992,12:30,Upstream,Single,Round,2,0,2.8,6.7,Live-bed,Non-cohesive,1.2,6.8,16,23,3.65,Insignificant,1.5,0.5
+TX,Brazos River,74," Brazos River at FM2004 near Lake Jackson, TX",6,10/23/1994,,Downstream,Group,Square,75,0,8,41,Live-bed,Cohesive,,,,,,Substantial,24.6,3
+VA,Bush River,51,"Bush River at U.S. 460 near Rice, VA",2,5/29/1990,12:00,Upstream,Single,Round,2.5,0,2.1,8.9,Unknown,Unknown,0.29,0.92,4.8,10.5,4.1,Unknown,2.5,1
+VA,Dan River,52,"Dan River at U.S. 501 at South Boston, VA",2,10/25/1990,11:00,Upstream,Single,Round,3.2,0,7.1,30.5,Unknown,Non-cohesive,0.14,0.28,0.46,0.77,1.8,Unknown,3.5,1
+VA,Dan River,52,"Dan River at U.S. 501 at South Boston, VA",1,10/25/1990,11:00,Upstream,Single,Round,3.2,0,6.2,26,Unknown,Non-cohesive,0.14,0.28,0.46,0.77,1.8,Unknown,4,1
+VA,Dan River,52,"Dan River at U.S. 501 at South Boston, VA",1,4/22/1992,12:00,Upstream,Single,Round,3.2,0,4.3,19.1,Unknown,Non-cohesive,0.14,0.28,0.46,0.77,1.8,Unknown,2.7,1
+VA,Dan River,52,"Dan River at U.S. 501 at South Boston, VA",1,10/24/1990,11:00,Upstream,Single,Round,3.2,0,5.2,20.5,Unknown,Non-cohesive,0.14,0.28,0.46,0.77,1.8,Unknown,3.5,1
+VA,Dan River,52,"Dan River at U.S. 501 at South Boston, VA",2,4/22/1992,12:00,Upstream,Single,Round,3.2,0,5.5,27.5,Unknown,Non-cohesive,0.14,0.28,0.46,0.77,1.8,Unknown,5,1
+VA,Little Nottoway River,54,"Little Nottoway River S.R. 603 nr Blackstone, VA",2,8/24/1990,10:30,Upstream,Single,Round,2.25,0,1.1,2.9,Unknown,Unknown,0.35,0.69,1.3,1.9,1.9,Unknown,2.4,1
+VA,Little Nottoway River,54,"Little Nottoway River S.R. 603 nr Blackstone, VA",1,3/29/1991,15:30,Upstream,Single,Round,2.25,0,1.7,4.6,Unknown,Unknown,0.35,0.69,1.3,1.9,1.9,Unknown,1.4,1
+VA,Little Nottoway River,54,"Little Nottoway River S.R. 603 nr Blackstone, VA",3,5/2/1989,13:00,Upstream,Single,Round,2.25,0,0.8,2.9,Unknown,Unknown,0.35,0.69,1.3,1.9,1.9,Unknown,1.6,1
+VA,Little Nottoway River,54,"Little Nottoway River S.R. 603 nr Blackstone, VA",3,8/24/1990,10:30,Upstream,Single,Round,2.25,0,1.1,2.6,Unknown,Unknown,0.35,0.69,1.3,1.9,1.9,Unknown,1.3,1
+VA,Little Nottoway River,54,"Little Nottoway River S.R. 603 nr Blackstone, VA",3,8/24/1990,14:30,Upstream,Single,Round,2.25,0,0.6,2,Unknown,Unknown,0.35,0.69,1.3,1.9,1.9,Unknown,1.4,1
+VA,Little Nottoway River,54,"Little Nottoway River S.R. 603 nr Blackstone, VA",3,3/29/1991,17:30,Upstream,Single,Round,2.25,0,1.6,3.5,Unknown,Unknown,0.35,0.69,1.3,1.9,1.9,Unknown,1.5,1
+VA,Little Nottoway River,54,"Little Nottoway River S.R. 603 nr Blackstone, VA",1,3/29/1991,17:30,Upstream,Single,Round,2.25,0,1.7,5.3,Unknown,Unknown,0.35,0.69,1.3,1.9,1.9,Unknown,1.2,1
+VA,Little Nottoway River,54,"Little Nottoway River S.R. 603 nr Blackstone, VA",1,8/24/1990,10:30,Upstream,Single,Round,2.25,0,2.3,5.9,Unknown,Unknown,0.35,0.69,1.3,1.9,1.9,Unknown,1.2,1
+VA,Little Nottoway River,54,"Little Nottoway River S.R. 603 nr Blackstone, VA",1,3/29/1991,12:30,Upstream,Single,Round,2.25,0,1.3,2.9,Unknown,Unknown,0.35,0.69,1.3,1.9,1.9,Unknown,1.3,1
+VA,Little Nottoway River,54,"Little Nottoway River S.R. 603 nr Blackstone, VA",1,8/24/1990,14:30,Upstream,Single,Round,2.25,0,2.1,5.1,Unknown,Unknown,0.35,0.69,1.3,1.9,1.9,Unknown,0.7,1
+VA,Little Nottoway River,54,"Little Nottoway River S.R. 603 nr Blackstone, VA",1,5/2/1989,13:00,Upstream,Single,Round,2.25,0,2.2,5.6,Unknown,Unknown,0.35,0.69,1.3,1.9,1.9,Unknown,1.3,1
+VA,Little Nottoway River,54,"Little Nottoway River S.R. 603 nr Blackstone, VA",2,5/2/1989,13:00,Upstream,Single,Round,2.25,0,0.6,3.2,Unknown,Unknown,0.35,0.69,1.3,1.9,1.9,Unknown,1.8,1
+VA,North Fork Holston River,56,"North Fork Holston River at S.R. 633 near North Holston, VA",2,3/30/1991,10:00,Upstream,Single,Round,2,0,4.5,8.5,Unknown,Unknown,18,37,75,180,2,Unknown,0.8,1
+VA,North Fork Holston River,56,"North Fork Holston River at S.R. 633 near North Holston, VA",2,5/29/1990,11:00,Upstream,Single,Round,2,0,4.6,7.9,Unknown,Unknown,18,37,75,180,2,Unknown,0.4,1
+VA,North Fork Holston River,56,"North Fork Holston River at S.R. 633 near North Holston, VA",2,2/26/1992,10:00,Upstream,Single,Round,2,0,4.6,9.7,Unknown,Unknown,18,37,75,180,2,Unknown,1,1
+VA,North Fork Holston River,56,"North Fork Holston River at S.R. 633 near North Holston, VA",2,3/4/1993,17:30,Upstream,Single,Round,2,0,5.1,10.7,Unknown,Unknown,18,37,75,180,2,Unknown,1.2,1
+VA,North Fork Holston River,56,"North Fork Holston River at S.R. 633 near North Holston, VA",2,3/4/1993,13:30,Upstream,Single,Round,2,0,4.8,9.9,Unknown,Unknown,18,37,75,180,2,Unknown,0.8,1
+VA,North Fork Holston River,56,"North Fork Holston River at S.R. 633 near North Holston, VA",1,5/29/1990,11:00,Upstream,Single,Round,2,0,4.1,7.1,Unknown,Non-cohesive,18,37,75,180,2,Unknown,0.2,1
+VA,Nottoway River,50,"Nottoway River at S.R. 653 near Sebrell, VA",LEFT,3/17/1993,9:30,Upstream,Single,Round,2.9,0,3.1,14.3,Unknown,Unknown,0.35,0.74,2,4,2.4,Unknown,1.4,1
+VA,Nottoway River,50,"Nottoway River at S.R. 653 near Sebrell, VA",LEFT,3/12/1992,11:30,Upstream,Single,Round,2.9,0,2.8,14.4,Unknown,Unknown,0.35,0.74,2,4,2.4,Unknown,1.6,1
+VA,Nottoway River,50,"Nottoway River at S.R. 653 near Sebrell, VA",LEFT,3/18/1993,12:00,Upstream,Single,Round,2.9,0,3.4,15.2,Unknown,Unknown,0.35,0.74,2,4,2.4,Unknown,1.8,1
+VA,Nottoway River,50,"Nottoway River at S.R. 653 near Sebrell, VA",LEFT,3/19/1993,11:00,Upstream,Single,Round,2.9,0,3.1,15.2,Unknown,Unknown,0.35,0.74,2,4,2.4,Unknown,1.5,1
+VA,Nottoway River,50,"Nottoway River at S.R. 653 near Sebrell, VA",CNTR,3/17/1993,9:30,Upstream,Single,Round,2.9,0,3.3,16.7,Unknown,Unknown,0.35,0.74,2,4,2.4,Unknown,1.8,1
+VA,Nottoway River,50,"Nottoway River at S.R. 653 near Sebrell, VA",CNTR,1/16/1991,10:30,Upstream,Single,Round,2.9,0,3,15.5,Unknown,Unknown,0.35,0.74,2,4,2.4,Unknown,1.1,1
+VA,Nottoway River,50,"Nottoway River at S.R. 653 near Sebrell, VA",CNTR,1/18/1991,10:30,Upstream,Single,Round,2.9,0,2.6,16,Unknown,Unknown,0.35,0.74,2,4,2.4,Unknown,1.5,1
+VA,Nottoway River,50,"Nottoway River at S.R. 653 near Sebrell, VA",CNTR,4/4/1991,14:30,Upstream,Single,Round,2.9,0,3.3,16.5,Unknown,Unknown,0.35,0.74,2,4,2.4,Unknown,1.2,1
+VA,Nottoway River,50,"Nottoway River at S.R. 653 near Sebrell, VA",CNTR,4/5/1991,12:00,Upstream,Single,Round,2.9,0,3.4,15.7,Unknown,Unknown,0.35,0.74,2,4,2.4,Unknown,1.2,1
+VA,Nottoway River,50,"Nottoway River at S.R. 653 near Sebrell, VA",CNTR,3/11/1993,9:30,Upstream,Single,Round,2.9,0,3.7,16.5,Unknown,Unknown,0.35,0.74,2,4,2.4,Unknown,1.3,1
+VA,Nottoway River,50,"Nottoway River at S.R. 653 near Sebrell, VA",CNTR,3/18/1993,12:00,Upstream,Single,Round,2.9,0,3.7,15.9,Unknown,Unknown,0.35,0.74,2,4,2.4,Unknown,2,1
+VA,Nottoway River,50,"Nottoway River at S.R. 653 near Sebrell, VA",LEFT,4/4/1991,14:30,Upstream,Single,Round,2.9,0,3,14.8,Unknown,Unknown,0.35,0.74,2,4,2.4,Unknown,0.9,1
+VA,Nottoway River,50,"Nottoway River at S.R. 653 near Sebrell, VA",LEFT,1/18/1991,10:30,Upstream,Single,Round,2.9,0,2.6,14.4,Unknown,Unknown,0.35,0.74,2,4,2.4,Unknown,0.8,1
+VA,Nottoway River,50,"Nottoway River at S.R. 653 near Sebrell, VA",CNTR,4/1/1993,10:00,Upstream,Single,Round,2.9,0,3.6,15.4,Unknown,Unknown,0.35,0.74,2,4,2.4,Unknown,2,1
+VA,Nottoway River,50,"Nottoway River at S.R. 653 near Sebrell, VA",CNTR,3/19/1993,11:00,Upstream,Single,Round,2.9,0,3.5,16.9,Unknown,Unknown,0.35,0.74,2,4,2.4,Unknown,2,1
+VA,Nottoway River,50,"Nottoway River at S.R. 653 near Sebrell, VA",LEFT,4/5/1991,12:00,Upstream,Single,Round,2.9,0,2.8,14,Unknown,Unknown,0.35,0.74,2,4,2.4,Unknown,1.1,1
+VA,Nottoway River,50,"Nottoway River at S.R. 653 near Sebrell, VA",LEFT,4/1/1993,10:00,Upstream,Single,Round,2.9,0,3.2,15.4,Unknown,Unknown,0.35,0.74,2,4,2.4,Unknown,1.3,1
+VA,Nottoway River,50,"Nottoway River at S.R. 653 near Sebrell, VA",LEFT,3/11/1993,9:30,Upstream,Single,Round,2.9,0,3.3,15.2,Unknown,Unknown,0.35,0.74,2,4,2.4,Unknown,1.4,1
+VA,Nottoway River,50,"Nottoway River at S.R. 653 near Sebrell, VA",LEFT,1/16/1991,10:30,Upstream,Single,Round,2.9,0,2.8,14,Unknown,Unknown,0.35,0.74,2,4,2.4,Unknown,0.9,1
+VA,Nottoway River,50,"Nottoway River at S.R. 653 near Sebrell, VA",CNTR,3/12/1992,11:30,Upstream,Single,Round,2.9,0,3,14.7,Unknown,Unknown,0.35,0.74,2,4,2.4,Unknown,1.2,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",RT,4/19/1993,10:00,Upstream,Single,Round,3,0,1.1,23.4,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,3,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",CNTR,1/14/1991,12:00,Upstream,Single,Round,3,0,3.2,24,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,2.5,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",CNTR,5/31/1990,13:30,Upstream,Single,Round,3,0,4.6,28.7,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,5,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",LEFT,4/19/1993,10:00,Upstream,Single,Round,3,0,1.7,18.9,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,2.3,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",LEFT,4/13/1993,9:30,Upstream,Single,Round,3,0,1.4,18.4,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,2,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",LEFT,4/12/1993,12:00,Upstream,Single,Round,3,0,1.6,18.1,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,1.6,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",CNTR,1/11/1993,12:00,Upstream,Single,Round,3,0,2.8,21.3,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,5.1,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",CNTR,12/14/1992,10:00,Upstream,Single,Round,3,0,3.3,22.8,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,3.5,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",RT,4/12/1993,12:00,Upstream,Single,Round,3,0,1.2,20.8,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,1.5,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",CNTR,12/15/1992,11:00,Upstream,Single,Round,3,0,3,22,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,4.5,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",LEFT,12/15/1992,11:00,Upstream,Single,Round,3,0,1,16.9,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,2,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",LEFT,12/14/1992,10:00,Upstream,Single,Round,3,0,1.3,17.5,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,3,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",LEFT,12/13/1992,11:30,Upstream,Single,Round,3,0,1.2,16.5,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,1.6,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",LEFT,1/12/1993,10:30,Upstream,Single,Round,3,0,1,16.4,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,3,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",RT,1/11/1993,12:00,Upstream,Single,Round,3,0,1.1,18.5,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,1.5,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",LEFT,5/31/1990,13:30,Upstream,Single,Round,3,0,1.7,21.2,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,3.2,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",RT,1/12/1993,10:30,Upstream,Single,Round,3,0,1,19.3,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,1.3,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",LEFT,1/11/1993,12:00,Upstream,Single,Round,3,0,1,15.6,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,1.8,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",RT,12/13/1992,11:30,Upstream,Single,Round,3,0,1.3,19.5,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,1.5,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",CNTR,12/13/1992,11:30,Upstream,Single,Round,3,0,3.2,16.2,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,4.5,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",RT,12/14/1992,10:00,Upstream,Single,Round,3,0,1.2,20,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,2,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",RT,4/13/1993,9:30,Upstream,Single,Round,3,0,1.1,21,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,1.5,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",RT,5/31/1990,13:30,Upstream,Single,Round,3,0,1.9,26.3,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,3,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",CNTR,4/19/1993,10:00,Upstream,Single,Round,3,0,3.3,24.8,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,3.6,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",CNTR,4/13/1993,9:30,Upstream,Single,Round,3,0,3.2,24.4,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,3.5,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",CNTR,4/12/1993,12:00,Upstream,Single,Round,3,0,3.3,24.6,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,4,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",CNTR,1/12/1993,10:30,Upstream,Single,Round,3,0,3.1,21.7,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,4.2,1
+VA,Pamunkey River,49,"Pamunkey River at S.R. 614 near Hanover, VA",RT,12/15/1992,11:00,Upstream,Single,Round,3,0,0.8,18.8,Unknown,Unknown,0.32,0.7,1.6,2.8,2.24,Unknown,1.2,1
+VA,Reed Creek,55,"Reed Creek at S.R. 649 near Wytheville, VA",2,3/29/1991,14:30,Upstream,Single,Round,2,0,3.7,2.5,Unknown,Non-cohesive,38,55,84,130,1.5,Unknown,1.5,1
+VA,Reed Creek,55,"Reed Creek at S.R. 649 near Wytheville, VA",2,3/24/1993,9:30,Upstream,Single,Round,2,0,6.5,10.5,Unknown,Non-cohesive,38,55,84,130,1.5,Unknown,1.8,1
+VA,Reed Creek,55,"Reed Creek at S.R. 649 near Wytheville, VA",2,6/5/1992,10:30,Upstream,Single,Round,2,0,5.5,10.5,Unknown,Non-cohesive,38,55,84,130,1.5,Unknown,2.1,1
+VA,Tye River,53,"Tye River at S.R. 56 near Lovingston, VA",3,5/7/1989,9:00,Upstream,Single,Round,2,0,5.3,5,Unknown,Non-cohesive,33,72,170,250,2.3,Unknown,1.2,1
+VA,Tye River,53,"Tye River at S.R. 56 near Lovingston, VA",3,4/22/1992,11:00,Upstream,Single,Round,2,0,8.5,8.6,Unknown,Non-cohesive,33,72,170,250,2.3,Unknown,2.5,1
+VA,Tye River,53,"Tye River at S.R. 56 near Lovingston, VA",2,5/3/1989,12:00,Upstream,Single,Round,2,0,1.8,1.5,Unknown,Non-cohesive,33,72,170,250,2.3,Unknown,0.8,1
+VA,Tye River,53,"Tye River at S.R. 56 near Lovingston, VA",2,4/22/1992,11:00,Upstream,Single,Round,2,0,5.2,5.5,Unknown,Non-cohesive,33,72,170,250,2.3,Unknown,1.6,1
+VA,Tye River,53,"Tye River at S.R. 56 near Lovingston, VA",2,5/7/1989,9:00,Upstream,Single,Round,2,0,5.1,2.2,Unknown,Non-cohesive,33,72,170,250,2.3,Unknown,0.6,1
+VA,Tye River,53,"Tye River at S.R. 56 near Lovingston, VA",3,5/3/1989,12:00,Upstream,Single,Round,2,0,4.1,4,Unknown,Non-cohesive,33,72,170,250,2.3,Unknown,1,1
